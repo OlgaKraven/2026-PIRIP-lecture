@@ -1,0 +1,203 @@
+export type SourceRef = {
+  id: string;
+  title: string;
+  sourceTitle?: string;
+  sourceContent?: string;
+  type: 'local' | 'web' | 'book' | 'repository' | 'archive';
+  url?: string;
+  localPath?: string;
+  checkedAt: string;
+  note: string;
+  official: boolean;
+};
+
+const checkedAt = '2026-09-01';
+
+export const sourceRegistry: SourceRef[] = [
+  {
+    id: 'kim-2027-pdf',
+    title: 'КИМ 09.02.07-3-2027. Том 1 (инвариантная часть)',
+    sourceTitle: 'Комплект оценочной документации по специальности 09.02.07 Информационные системы и программирование. КОД 09.02.07-3-2027. Том 1 (инвариантная часть)',
+    sourceContent: 'ПА базового уровня — 1 ч 30 мин; ГИА ДЭ базового уровня — 3 ч 30 мин; инвариантная часть ГИА ДЭ — 75 баллов; задания 1, 2 и 3 — по 25 баллов.',
+    type: 'local',
+    localPath: 'C:/Users/gvadoskr/Yandex.Disk/2026-2027/ЛППР/ДЭ/КОДы - 2027 год/09.02.07 Информационные системы и программирование/Разработчик веб и мультимедийных приложений/КИМ 09.02.07-3-2027 Том 1.pdf',
+    checkedAt,
+    note: 'Проверены 50 страниц; ключевые требования находятся на страницах 7–14 и 29–37.',
+    official: true,
+  },
+  {
+    id: 'kim-2027-zip',
+    title: 'Приложение к КИМ 09.02.07-3-2027',
+    sourceTitle: 'Прил_ОЗ_КИМ_09.02.07-3-2027.zip',
+    sourceContent: 'Архив приложений к образцу задания: руководство по стилю, шрифты Inter и PT Sans, social-изображения и медиафайлы.',
+    type: 'archive',
+    localPath: 'C:/Users/gvadoskr/Yandex.Disk/2026-2027/ЛППР/ДЭ/КОДы - 2027 год/09.02.07 Информационные системы и программирование/Разработчик веб и мультимедийных приложений/Прил_ОЗ_КИМ_09.02.07-3-2027.zip',
+    checkedAt,
+    note: 'В ПА и БУ найден одинаковый вложенный архив: PT Sans, Inter, 22 медиафайла, 3 файла social и руководство по стилю.',
+    official: true,
+  },
+  {
+    id: 'kim-style-guide',
+    title: 'Руководство по стилю из приложения к КИМ 2027',
+    sourceTitle: 'Руководство по стилю',
+    sourceContent: 'PT Sans; H1 — 36 px bold; H2 — 24 px bold; H3 — 18 px bold; основной текст — 16 px; вспомогательный текст — 12 px italic; #007bff, #0d47a1, #6c757d, #f8f9fa, #ffffff.',
+    type: 'archive',
+    localPath: 'Прил_ОЗ_КИМ_09.02.07-3-2027.zip → руководство по стилю.pdf',
+    checkedAt,
+    note: 'PT Sans; #007bff, #0d47a1, #6c757d, #f8f9fa, #ffffff; размеры H1 36 px, H2–H3 24/18 px, основной текст 16 px.',
+    official: true,
+  },
+  {
+    id: 'pirip-01-site',
+    title: 'ПИРИП-01: HTML, CSS, JavaScript и адаптивная вёрстка',
+    type: 'web',
+    url: 'https://olgakraven.github.io/DKIP.PM.02.MDK.02-PIRIP-01/',
+    checkedAt,
+    note: 'Страница доступна (HTTP 200); используется как база, без повторения полного вводного курса.',
+    official: false,
+  },
+  {
+    id: 'pirip-02-site',
+    title: 'ПИРИП-02: UX, wireframes, UI-kit и прототипирование',
+    type: 'web',
+    url: 'https://olgakraven.github.io/DKIP.PM.02.MDK.02-PIRIP-02/',
+    checkedAt,
+    note: 'Страница доступна (HTTP 200); используется для перехода от проектных артефактов к реализации.',
+    official: false,
+  },
+  {
+    id: 'yandex-materials-folder',
+    title: 'Ссылка на папку материалов',
+    type: 'web',
+    url: 'https://disk.yandex.ru/d/doO6apAunlrARw',
+    checkedAt,
+    note: 'URL доступен (HTTP 200). Содержимое папки не перечисляется и не заявляется; ссылка используется только для QR-кода и перехода.',
+    official: false,
+  },
+  {
+    id: 'github-pirip-repository',
+    title: 'Репозиторий курса ПИРИП 2027',
+    type: 'repository',
+    url: 'https://github.com/OlgaKraven/2026-PIRIP-lecture',
+    checkedAt,
+    note: 'До начала разработки публичный репозиторий был пуст.',
+    official: false,
+  },
+  {
+    id: 'pisid4-design-reference',
+    title: 'ПиДИС · 4 курс — дизайн-референс',
+    type: 'repository',
+    localPath: 'C:/Users/gvadoskr/Desktop/2026-2027/2026-PISID4-lecture',
+    checkedAt,
+    note: 'Источник визуальной системы: Raleway, графитовый фон, красный акцент, крупная типографика, карточки и носорог-проектировщик.',
+    official: false,
+  },
+  {
+    id: 'lit-markin-baranov-2026',
+    title: 'Маркин, А. В., Баранов, А. Ю. Web-программирование. 3-е изд. 2026',
+    type: 'book',
+    url: 'https://www.iprbookshop.ru/books/163055/details',
+    checkedAt,
+    note: 'Библиографические сведения сохранены дословно из утверждённого материала пользователя.',
+    official: false,
+  },
+  {
+    id: 'lit-adams-floyd-2025',
+    title: 'Адамс, Д. Р., Флойд, К. С. Основы работы с XHTML и CSS. 4-е изд. 2025',
+    type: 'book',
+    url: 'https://www.iprbookshop.ru/books/146372/details',
+    checkedAt,
+    note: 'Библиографические сведения сохранены дословно из утверждённого материала пользователя.',
+    official: false,
+  },
+  {
+    id: 'lit-bogdanova-2024',
+    title: 'Богданова, С. В. Технологии программирования. Ч. 2. 2024',
+    type: 'book',
+    url: 'https://www.iprbookshop.ru/books/156618/details',
+    checkedAt,
+    note: 'Дополнительная литература; библиографические сведения сохранены дословно.',
+    official: false,
+  },
+  {
+    id: 'mdn-javascript',
+    title: 'MDN Web Docs — JavaScript',
+    type: 'web',
+    url: 'https://developer.mozilla.org/ru/docs/Web/JavaScript',
+    checkedAt,
+    note: 'Официальная справочная документация; страница доступна (HTTP 200).',
+    official: true,
+  },
+  {
+    id: 'ecma-262',
+    title: 'ECMAScript Language Specification',
+    type: 'web',
+    url: 'https://tc39.es/ecma262/',
+    checkedAt,
+    note: 'Официальная спецификация ECMAScript 2027; страница доступна (HTTP 200).',
+    official: true,
+  },
+  {
+    id: 'javascript-info',
+    title: 'The Modern JavaScript Tutorial',
+    type: 'web',
+    url: 'https://javascript.info/',
+    checkedAt,
+    note: 'Учебный технический ресурс; страница доступна (HTTP 200).',
+    official: false,
+  },
+  {
+    id: 'github-pages-docs',
+    title: 'GitHub Docs — custom workflows for GitHub Pages',
+    type: 'web',
+    url: 'https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages',
+    checkedAt,
+    note: 'Проверены актуальные официальные действия configure-pages, upload-pages-artifact и deploy-pages.',
+    official: true,
+  },
+  {
+    id: 'vite-static-deploy',
+    title: 'Vite — Deploying a Static Site',
+    type: 'web',
+    url: 'https://vite.dev/guide/static-deploy.html',
+    checkedAt,
+    note: 'Официальная документация: для project Pages base должен совпадать с именем репозитория.',
+    official: true,
+  },
+  {
+    id: 'wcag-22',
+    title: 'Web Content Accessibility Guidelines (WCAG) 2.2',
+    type: 'web',
+    url: 'https://www.w3.org/TR/WCAG22/',
+    checkedAt,
+    note: 'Рекомендация W3C; используется для клавиатурной доступности, фокуса, контраста и reduced motion.',
+    official: true,
+  },
+  {
+    id: 'playwright-docs',
+    title: 'Playwright documentation',
+    type: 'web',
+    url: 'https://playwright.dev/docs/intro',
+    checkedAt,
+    note: 'Официальная документация; проверена при настройке smoke- и PDF-тестов.',
+    official: true,
+  },
+  {
+    id: 'kod-09-02-07-3-2026-pdf',
+    title: 'Совместимый идентификатор мастер-ТЗ для PDF КИМ 2027',
+    type: 'local',
+    checkedAt,
+    note: 'Идентификатор сохранён для совместимости с мастер-ТЗ; фактический документ относится к 2027 году и зарегистрирован как kim-2027-pdf.',
+    official: true,
+  },
+  {
+    id: 'kod-09-02-07-3-2026-zip',
+    title: 'Совместимый идентификатор мастер-ТЗ для приложения КИМ 2027',
+    type: 'archive',
+    checkedAt,
+    note: 'Идентификатор сохранён для совместимости с мастер-ТЗ; фактический архив относится к 2027 году и зарегистрирован как kim-2027-zip.',
+    official: true,
+  },
+];
+
+export const sourcesById = Object.fromEntries(sourceRegistry.map((source) => [source.id, source])) as Record<string, SourceRef>;
