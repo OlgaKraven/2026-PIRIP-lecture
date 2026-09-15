@@ -1,32 +1,34 @@
-import { mkdir } from 'node:fs/promises';
+import fs from 'node:fs/promises';
 import path from 'node:path';
-import process from 'node:process';
-import { launchBrowser, startServer, stopServer } from './runtime.mjs';
-
-function arg(name) { const index = process.argv.indexOf(name); return index >= 0 ? process.argv[index + 1] : null; }
-const requestedLecture = arg('--lecture');
-const requestedVariant = arg('--variant');
-if (requestedVariant && !['student', 'teacher'].includes(requestedVariant)) throw new Error(`Unknown variant: ${requestedVariant}`);
-const variants = requestedVariant ? [requestedVariant] : ['student', 'teacher'];
-const port = 4400 + Math.floor(Math.random() * 300);
-const liveUrl = process.env.PDF_BASE_URL?.replace(/\/$/, '');
-const { child, url } = liveUrl ? { child: null, url: liveUrl } : await startServer(port);
-let browser;
-try {
-  browser = await launchBrowser();
-  const catalog = await browser.newPage({ viewport: { width: 1440, height: 900 } });
-  await catalog.goto(url, { waitUntil: 'networkidle' });
-  const lectures = await catalog.locator('[data-lecture-id]').evaluateAll((cards) => cards.map((card, index) => ({ id: card.getAttribute('data-lecture-id'), order: index + 1 })));
-  await catalog.close();
-  const selected = requestedLecture ? lectures.filter((lecture) => lecture.id === requestedLecture) : lectures;
-  if (selected.length === 0) throw new Error(`Lecture not found: ${requestedLecture}`);
-  for (const mode of variants) await mkdir(path.join(process.cwd(), 'outputs', 'pdf', mode), { recursive: true });
-  for (const [index, lecture] of selected.entries()) for (const mode of variants) {
-    const page = await browser.newPage({ viewport: { width: 1280, height: 720 } });
-    await page.goto(`${url}/print?lecture=${encodeURIComponent(lecture.id)}&mode=${mode}`, { waitUntil: 'networkidle', timeout: 120_000 });
-    await page.waitForFunction(() => window.__DECK_READY__ === true, null, { timeout: 120_000 });
-    const outputPath = path.join(process.cwd(), 'outputs', 'pdf', mode, `${lecture.id}.pdf`);
-    await page.pdf({ path: outputPath, printBackground: true, preferCSSPageSize: true, tagged: true, outline: true });
-    await page.close(); console.log(`[${index + 1}/${selected.length}] ${mode}: ${outputPath}`);
-  }
-} finally { if (browser) await browser.close(); if (child) stopServer(child); }
+import {chromium} from 'playwright';
+import {getDocument} from 'pdfjs-dist/legacy/build/pdf.mjs';
+const base=process.env.SITE_URL||'http://127.0.0.1:4175/2026-PIRIP-lecture/';
+const output=process.env.PDF_OUTPUT||'outputs/pdf/student';
+const course=JSON.parse(await fs.readFile('public/course.json','utf8'));
+await fs.mkdir(output,{recursive:true});
+const browser=await chromium.launch({headless:true});
+const context=await browser.newContext({viewport:{width:1280,height:900},reducedMotion:'reduce'});
+const page=await context.newPage();const report=[];
+for(const l of course.lectures){
+ const url=new URL(base);url.search=new URLSearchParams({mode:'print',scope:l.id}).toString();
+ await page.goto(url.href);await page.locator('.print-page').last().waitFor();
+ await page.evaluate(async()=>{await document.fonts.ready;await Promise.all([...document.images].map(im=>im.decode().catch(()=>{})));});
+ await page.emulateMedia({media:'print'});
+ const file=path.join(output,l.id+'.pdf');
+ await page.pdf({path:file,printBackground:true,preferCSSPageSize:true,displayHeaderFooter:false});
+ const loadingTask=getDocument({data:new Uint8Array(await fs.readFile(file)),useSystemFonts:true});
+ const doc=await loadingTask.promise;
+ if(doc.numPages!==l.slides.length)throw Error(l.id+': '+doc.numPages+' pages instead of '+l.slides.length);
+ const missing=[];
+ for(let i=0;i<doc.numPages;i++){
+  const p=await doc.getPage(i+1),text=(await p.getTextContent()).items.map(x=>x.str||'').join(' ').replace(/\s/g,'');
+  const title=l.slides[i].title.replace(/\s/g,'');
+  if(!text.includes(title))missing.push({page:i+1,title:l.slides[i].title});
+  if(text.includes('Заметкиимпортированы')||text.includes('Разборответа'))throw Error('Private UI in PDF');
+ }
+ report.push({lecture:l.id,file:path.basename(file),pages:doc.numPages,missingTitles:missing});
+ console.log(l.id,doc.numPages,'pages; missing titles:',missing.length);
+ await loadingTask.destroy();
+}
+await browser.close();await fs.writeFile('reports/pdf.json',JSON.stringify(report,null,2));
+if(report.some(x=>x.missingTitles.length))throw Error('PDF text completeness check failed');

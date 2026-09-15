@@ -1,0 +1,568 @@
+[
+  {
+    "lectureId": "lecture-01-kim-and-mvp",
+    "questionId": "L001-Q01",
+    "title": "Требования, время и оценивание",
+    "source": "КИМ, с. 7, 12–14, 33–37; методические рекомендации для обучающихся, с. 1–4; для СПО, с. 1–2. Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L001-Q01-meaning",
+      "L001-Q01-terms",
+      "L001-kim-structure",
+      "L001-time-levels",
+      "L001-points-map-context",
+      "L001-points-map",
+      "L001-criterion-evidence",
+      "L001-Q01-example",
+      "L001-Q01-diagnostic"
+    ],
+    "taskIds": [
+      "L001-Q01-T01",
+      "L001-Q01-T02",
+      "L001-Q01-T03",
+      "L001-Q01-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-01-kim-and-mvp",
+    "questionId": "L001-Q02",
+    "title": "Пользовательский и административный маршрут",
+    "source": "КИМ, с. 7, 12–14, 33–37; методические рекомендации для обучающихся, с. 1–4; для СПО, с. 1–2. Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L001-Q02-meaning",
+      "L001-Q02-terms",
+      "L001-training-domain-context",
+      "L001-training-domain",
+      "L001-minimum-pages",
+      "L001-user-scenario",
+      "L001-admin-scenario",
+      "L001-Q02-example",
+      "L001-Q02-diagnostic"
+    ],
+    "taskIds": [
+      "L001-Q02-T01",
+      "L001-Q02-T02",
+      "L001-Q02-T03",
+      "L001-Q02-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-01-kim-and-mvp",
+    "questionId": "L001-Q03",
+    "title": "Архитектура и экзаменационная среда",
+    "source": "КИМ, с. 7, 12–14, 33–37; методические рекомендации для обучающихся, с. 1–4; для СПО, с. 1–2. Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L001-Q03-meaning",
+      "L001-Q03-terms",
+      "L001-traceability-matrix",
+      "L001-minimum-stack",
+      "L001-git-offline",
+      "L001-er-preview",
+      "L001-Q03-example",
+      "L001-Q03-diagnostic"
+    ],
+    "taskIds": [
+      "L001-Q03-T01",
+      "L001-Q03-T02",
+      "L001-Q03-T03",
+      "L001-Q03-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-01-kim-and-mvp",
+    "questionId": "L001-Q04",
+    "title": "Валидация, статусы и развитие приложения",
+    "source": "КИМ, с. 7, 12–14, 33–37; методические рекомендации для обучающихся, с. 1–4; для СПО, с. 1–2. Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L001-Q04-meaning",
+      "L001-Q04-terms",
+      "L001-validation-minimum",
+      "L001-status-review",
+      "L001-task2-minimum",
+      "L001-task3-minimum",
+      "L001-Q04-example",
+      "L001-Q04-diagnostic"
+    ],
+    "taskIds": [
+      "L001-Q04-T01",
+      "L001-Q04-T02",
+      "L001-Q04-T03",
+      "L001-Q04-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-01-kim-and-mvp",
+    "questionId": "L001-Q05",
+    "title": "Доказательства готовности и передача работы",
+    "source": "КИМ, с. 7, 12–14, 33–37; методические рекомендации для обучающихся, с. 1–4; для СПО, с. 1–2. Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L001-Q05-meaning",
+      "L001-Q05-terms",
+      "L001-evidence-files",
+      "L001-demo-script",
+      "L001-loss-patterns",
+      "L001-lab-handoff",
+      "L001-Q05-example",
+      "L001-Q05-diagnostic"
+    ],
+    "taskIds": [
+      "L001-Q05-T01",
+      "L001-Q05-T02",
+      "L001-Q05-T03",
+      "L001-Q05-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-02-database-backend-security",
+    "questionId": "L002-Q01",
+    "title": "Сущности и ограничения базы данных",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L002-Q01-meaning",
+      "L002-Q01-terms",
+      "L002-entities",
+      "L002-users-table-context",
+      "L002-users-table",
+      "L002-venues-table",
+      "L002-reservations-table-context",
+      "L002-reservations-table",
+      "L002-Q01-example",
+      "L002-Q01-diagnostic"
+    ],
+    "taskIds": [
+      "L002-Q01-T01",
+      "L002-Q01-T02",
+      "L002-Q01-T03",
+      "L002-Q01-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-02-database-backend-security",
+    "questionId": "L002-Q02",
+    "title": "Связи, создание схемы и проверочные данные",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L002-Q02-meaning",
+      "L002-Q02-terms",
+      "L002-reviews-table",
+      "L002-er-keys-context",
+      "L002-er-keys",
+      "L002-schema-order",
+      "L002-seed-data-context",
+      "L002-seed-data",
+      "L002-Q02-example",
+      "L002-Q02-diagnostic"
+    ],
+    "taskIds": [
+      "L002-Q02-T01",
+      "L002-Q02-T02",
+      "L002-Q02-T03",
+      "L002-Q02-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-02-database-backend-security",
+    "questionId": "L002-Q03",
+    "title": "Серверная проверка и хранение паролей",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L002-Q03-meaning",
+      "L002-Q03-terms",
+      "L002-db-connection-context",
+      "L002-db-connection",
+      "L002-oop-boundaries",
+      "L002-registration-validation",
+      "L002-password-hash",
+      "L002-Q03-example",
+      "L002-Q03-diagnostic"
+    ],
+    "taskIds": [
+      "L002-Q03-T01",
+      "L002-Q03-T02",
+      "L002-Q03-T03",
+      "L002-Q03-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-02-database-backend-security",
+    "questionId": "L002-Q04",
+    "title": "Запросы, сессия и границы полномочий",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L002-Q04-meaning",
+      "L002-Q04-terms",
+      "L002-prepared-statements-context",
+      "L002-prepared-statements",
+      "L002-session-login",
+      "L002-role-guard-context",
+      "L002-role-guard",
+      "L002-create-reservation",
+      "L002-Q04-example",
+      "L002-Q04-diagnostic"
+    ],
+    "taskIds": [
+      "L002-Q04-T01",
+      "L002-Q04-T02",
+      "L002-Q04-T03",
+      "L002-Q04-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-02-database-backend-security",
+    "questionId": "L002-Q05",
+    "title": "Владелец, статус и отзыв",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L002-Q05-meaning",
+      "L002-Q05-terms",
+      "L002-ownership-filter-context",
+      "L002-ownership-filter",
+      "L002-status-transition-context",
+      "L002-status-transition",
+      "L002-review-rule",
+      "L002-security-checklist",
+      "L002-Q05-example",
+      "L002-Q05-diagnostic"
+    ],
+    "taskIds": [
+      "L002-Q05-T01",
+      "L002-Q05-T02",
+      "L002-Q05-T03",
+      "L002-Q05-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-03-design-and-responsive",
+    "questionId": "L003-Q01",
+    "title": "Стиль приложения и дизайн-токены",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L003-Q01-meaning",
+      "L003-Q01-terms",
+      "L003-task2-purpose",
+      "L003-style-guide",
+      "L003-typography",
+      "L003-design-tokens",
+      "L003-Q01-example",
+      "L003-Q01-diagnostic"
+    ],
+    "taskIds": [
+      "L003-Q01-T01",
+      "L003-Q01-T02",
+      "L003-Q01-T03",
+      "L003-Q01-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-03-design-and-responsive",
+    "questionId": "L003-Q02",
+    "title": "Семантика, UI-kit и формы",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L003-Q02-meaning",
+      "L003-Q02-terms",
+      "L003-wireframe-to-html",
+      "L003-ui-kit",
+      "L003-form-anatomy",
+      "L003-validation-states",
+      "L003-Q02-example",
+      "L003-Q02-diagnostic"
+    ],
+    "taskIds": [
+      "L003-Q02-T01",
+      "L003-Q02-T02",
+      "L003-Q02-T03",
+      "L003-Q02-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-03-design-and-responsive",
+    "questionId": "L003-Q03",
+    "title": "Списки, карточки и мобильная композиция",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L003-Q03-meaning",
+      "L003-Q03-terms",
+      "L003-selects",
+      "L003-admin-card",
+      "L003-mobile-layout",
+      "L003-navigation-mobile",
+      "L003-Q03-example",
+      "L003-Q03-diagnostic"
+    ],
+    "taskIds": [
+      "L003-Q03-T01",
+      "L003-Q03-T02",
+      "L003-Q03-T03",
+      "L003-Q03-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-03-design-and-responsive",
+    "questionId": "L003-Q04",
+    "title": "Медиа и сообщения состояния",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L003-Q04-meaning",
+      "L003-Q04-terms",
+      "L003-touch-targets",
+      "L003-image-optimization",
+      "L003-kim-media-context",
+      "L003-kim-media",
+      "L003-messages",
+      "L003-Q04-example",
+      "L003-Q04-diagnostic"
+    ],
+    "taskIds": [
+      "L003-Q04-T01",
+      "L003-Q04-T02",
+      "L003-Q04-T03",
+      "L003-Q04-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-03-design-and-responsive",
+    "questionId": "L003-Q05",
+    "title": "Доступность и проверка всех страниц",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L003-Q05-meaning",
+      "L003-Q05-terms",
+      "L003-contrast-focus",
+      "L003-responsive-test-context",
+      "L003-responsive-test",
+      "L003-consistency-audit",
+      "L003-lab3-handoff",
+      "L003-Q05-example",
+      "L003-Q05-diagnostic"
+    ],
+    "taskIds": [
+      "L003-Q05-T01",
+      "L003-Q05-T02",
+      "L003-Q05-T03",
+      "L003-Q05-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "questionId": "L004-Q01",
+    "title": "Модель состояний интерфейса",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L004-Q01-meaning",
+      "L004-Q01-terms",
+      "L004-task3-goal",
+      "L004-state-model",
+      "L004-loading",
+      "L004-empty",
+      "L004-Q01-example",
+      "L004-Q01-diagnostic"
+    ],
+    "taskIds": [
+      "L004-Q01-T01",
+      "L004-Q01-T02",
+      "L004-Q01-T03",
+      "L004-Q01-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "questionId": "L004-Q02",
+    "title": "HTTP, JSON и актуальность ответа",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L004-Q02-meaning",
+      "L004-Q02-terms",
+      "L004-error",
+      "L004-success",
+      "L004-fetch-contract-context",
+      "L004-fetch-contract",
+      "L004-filtering-context",
+      "L004-filtering",
+      "L004-Q02-example",
+      "L004-Q02-diagnostic"
+    ],
+    "taskIds": [
+      "L004-Q02-T01",
+      "L004-Q02-T02",
+      "L004-Q02-T03",
+      "L004-Q02-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "questionId": "L004-Q03",
+    "title": "Уведомления, движение и загрузка изображений",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L004-Q03-meaning",
+      "L004-Q03-terms",
+      "L004-notifications",
+      "L004-microanimation",
+      "L004-reduced-motion",
+      "L004-image-performance",
+      "L004-Q03-example",
+      "L004-Q03-diagnostic"
+    ],
+    "taskIds": [
+      "L004-Q03-T01",
+      "L004-Q03-T02",
+      "L004-Q03-T03",
+      "L004-Q03-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "questionId": "L004-Q04",
+    "title": "DOM, клавиатура и динамические сообщения",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L004-Q04-meaning",
+      "L004-Q04-terms",
+      "L004-dom-budget",
+      "L004-console-errors",
+      "L004-keyboard-focus",
+      "L004-aria-live",
+      "L004-Q04-example",
+      "L004-Q04-diagnostic"
+    ],
+    "taskIds": [
+      "L004-Q04-T01",
+      "L004-Q04-T02",
+      "L004-Q04-T03",
+      "L004-Q04-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "questionId": "L004-Q05",
+    "title": "Качество кода и сквозная проверка",
+    "source": "Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L004-Q05-meaning",
+      "L004-Q05-terms",
+      "L004-code-standard",
+      "L004-offline-performance",
+      "L004-integrated-scenario",
+      "L004-lab4-ready",
+      "L004-Q05-example",
+      "L004-Q05-diagnostic"
+    ],
+    "taskIds": [
+      "L004-Q05-T01",
+      "L004-Q05-T02",
+      "L004-Q05-T03",
+      "L004-Q05-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-05-demo-and-qa",
+    "questionId": "L005-Q01",
+    "title": "План репетиции и правила подготовительного дня",
+    "source": "КИМ, с. 7, 12–14, 33–37; методические рекомендации для обучающихся, с. 1–4; для СПО, с. 1–2. Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L005-Q01-meaning",
+      "L005-Q01-terms",
+      "L005-strategy",
+      "L005-time-210",
+      "L005-time-pu",
+      "L005-workspace",
+      "L005-Q01-example",
+      "L005-Q01-diagnostic"
+    ],
+    "taskIds": [
+      "L005-Q01-T01",
+      "L005-Q01-T02",
+      "L005-Q01-T03",
+      "L005-Q01-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-05-demo-and-qa",
+    "questionId": "L005-Q02",
+    "title": "Сохранение этапа и доказательства базы данных",
+    "source": "КИМ, с. 7, 12–14, 33–37; методические рекомендации для обучающихся, с. 1–4; для СПО, с. 1–2. Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L005-Q02-meaning",
+      "L005-Q02-terms",
+      "L005-commits-context",
+      "L005-commits",
+      "L005-minimum-gate",
+      "L005-db-proof",
+      "L005-auth-proof",
+      "L005-Q02-example",
+      "L005-Q02-diagnostic"
+    ],
+    "taskIds": [
+      "L005-Q02-T01",
+      "L005-Q02-T02",
+      "L005-Q02-T03",
+      "L005-Q02-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-05-demo-and-qa",
+    "questionId": "L005-Q03",
+    "title": "Проверка заявки, администратора и смартфона",
+    "source": "КИМ, с. 7, 12–14, 33–37; методические рекомендации для обучающихся, с. 1–4; для СПО, с. 1–2. Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L005-Q03-meaning",
+      "L005-Q03-terms",
+      "L005-reservation-proof",
+      "L005-admin-proof",
+      "L005-mobile-proof",
+      "L005-interaction-proof",
+      "L005-Q03-example",
+      "L005-Q03-diagnostic"
+    ],
+    "taskIds": [
+      "L005-Q03-T01",
+      "L005-Q03-T02",
+      "L005-Q03-T03",
+      "L005-Q03-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-05-demo-and-qa",
+    "questionId": "L005-Q04",
+    "title": "Диагностика и безопасное восстановление",
+    "source": "КИМ, с. 7, 12–14, 33–37; методические рекомендации для обучающихся, с. 1–4; для СПО, с. 1–2. Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L005-Q04-meaning",
+      "L005-Q04-terms",
+      "L005-smoke-test",
+      "L005-recover-db",
+      "L005-recover-auth",
+      "L005-recover-responsive",
+      "L005-Q04-example",
+      "L005-Q04-diagnostic"
+    ],
+    "taskIds": [
+      "L005-Q04-T01",
+      "L005-Q04-T02",
+      "L005-Q04-T03",
+      "L005-Q04-T04"
+    ]
+  },
+  {
+    "lectureId": "lecture-05-demo-and-qa",
+    "questionId": "L005-Q05",
+    "title": "README, показ и границы самооценки",
+    "source": "КИМ, с. 7, 12–14, 33–37; методические рекомендации для обучающихся, с. 1–4; для СПО, с. 1–2. Авторское объяснение и учебный пример на основе источников лекции.",
+    "explanationSlideIds": [
+      "L005-Q05-meaning",
+      "L005-Q05-terms",
+      "L005-readme",
+      "L005-defense-script",
+      "L005-study-vs-expert",
+      "L005-final-readiness",
+      "L005-Q05-example",
+      "L005-Q05-diagnostic"
+    ],
+    "taskIds": [
+      "L005-Q05-T01",
+      "L005-Q05-T02",
+      "L005-Q05-T03",
+      "L005-Q05-T04"
+    ]
+  }
+]

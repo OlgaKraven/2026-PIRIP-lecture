@@ -1,0 +1,32 @@
+[
+  {
+    "lecture": "lecture-01-kim-and-mvp",
+    "file": "lecture-01-kim-and-mvp.pdf",
+    "pages": 87,
+    "missingTitles": []
+  },
+  {
+    "lecture": "lecture-02-database-backend-security",
+    "file": "lecture-02-database-backend-security.pdf",
+    "pages": 94,
+    "missingTitles": []
+  },
+  {
+    "lecture": "lecture-03-design-and-responsive",
+    "file": "lecture-03-design-and-responsive.pdf",
+    "pages": 87,
+    "missingTitles": []
+  },
+  {
+    "lecture": "lecture-04-performance-and-interactivity",
+    "file": "lecture-04-performance-and-interactivity.pdf",
+    "pages": 87,
+    "missingTitles": []
+  },
+  {
+    "lecture": "lecture-05-demo-and-qa",
+    "file": "lecture-05-demo-and-qa.pdf",
+    "pages": 86,
+    "missingTitles": []
+  }
+]

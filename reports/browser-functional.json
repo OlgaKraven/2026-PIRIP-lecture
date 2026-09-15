@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "assessment": "4 types; empty/correct/incorrect/partial; retry; mobile resize and reload",
+  "teaching": "Two actual browser pages; teacher pack import; synchronized diagram; navigation, audience reload, black screen; no bank request",
+  "consoleErrors": [],
+  "physicalMonitorsTested": false
+}

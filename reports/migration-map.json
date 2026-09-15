@@ -1,0 +1,1143 @@
+[
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "kim-structure",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-kim-structure"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "time-levels",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-time-levels"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "points-map",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-points-map-context",
+      "L001-points-map"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "criterion-evidence",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-criterion-evidence"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "training-domain",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-training-domain-context",
+      "L001-training-domain"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "minimum-pages",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-minimum-pages"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "user-scenario",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-user-scenario"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "admin-scenario",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-admin-scenario"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "traceability-matrix",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-traceability-matrix"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "minimum-stack",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-minimum-stack"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "git-offline",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-git-offline"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "er-preview",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-er-preview"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "validation-minimum",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-validation-minimum"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "status-review",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-status-review"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "task2-minimum",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-task2-minimum"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "task3-minimum",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-task3-minimum"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "evidence-files",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-evidence-files"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "demo-script",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-demo-script"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "loss-patterns",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-loss-patterns"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture01.ts",
+    "sourceId": "lab-handoff",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-lab-handoff"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "title",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-title"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "objectives-plan",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-objectives-plan"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "self-check",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-final"
+    ],
+    "change": "Исходная итоговая самопроверка сохранена в приватном сопровождении итогового слайда; обязательные четыре типа добавлены по вопросам."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "sources",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-sources"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "final",
+    "lectureId": "lecture-01-kim-and-mvp",
+    "slideIds": [
+      "L001-final"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "entities",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-entities"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "users-table",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-users-table-context",
+      "L002-users-table"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "venues-table",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-venues-table"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "reservations-table",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-reservations-table-context",
+      "L002-reservations-table"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "reviews-table",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-reviews-table"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "er-keys",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-er-keys-context",
+      "L002-er-keys"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "schema-order",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-schema-order"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "seed-data",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-seed-data-context",
+      "L002-seed-data"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "db-connection",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-db-connection-context",
+      "L002-db-connection"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "oop-boundaries",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-oop-boundaries"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "registration-validation",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-registration-validation"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "password-hash",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-password-hash"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "prepared-statements",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-prepared-statements-context",
+      "L002-prepared-statements"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "session-login",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-session-login"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "role-guard",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-role-guard-context",
+      "L002-role-guard"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "create-reservation",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-create-reservation"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "ownership-filter",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-ownership-filter-context",
+      "L002-ownership-filter"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "status-transition",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-status-transition-context",
+      "L002-status-transition"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "review-rule",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-review-rule"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture02.ts",
+    "sourceId": "security-checklist",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-security-checklist"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "title",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-title"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "objectives-plan",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-objectives-plan"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "self-check",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-final"
+    ],
+    "change": "Исходная итоговая самопроверка сохранена в приватном сопровождении итогового слайда; обязательные четыре типа добавлены по вопросам."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "sources",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-sources"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "final",
+    "lectureId": "lecture-02-database-backend-security",
+    "slideIds": [
+      "L002-final"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "task2-purpose",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-task2-purpose"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "style-guide",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-style-guide"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "typography",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-typography"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "design-tokens",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-design-tokens"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "wireframe-to-html",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-wireframe-to-html"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "ui-kit",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-ui-kit"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "form-anatomy",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-form-anatomy"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "validation-states",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-validation-states"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "selects",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-selects"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "admin-card",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-admin-card"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "mobile-layout",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-mobile-layout"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "navigation-mobile",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-navigation-mobile"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "touch-targets",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-touch-targets"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "image-optimization",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-image-optimization"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "kim-media",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-kim-media-context",
+      "L003-kim-media"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "messages",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-messages"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "contrast-focus",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-contrast-focus"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "responsive-test",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-responsive-test-context",
+      "L003-responsive-test"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "consistency-audit",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-consistency-audit"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture03.ts",
+    "sourceId": "lab3-handoff",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-lab3-handoff"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "title",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-title"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "objectives-plan",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-objectives-plan"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "self-check",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-final"
+    ],
+    "change": "Исходная итоговая самопроверка сохранена в приватном сопровождении итогового слайда; обязательные четыре типа добавлены по вопросам."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "sources",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-sources"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "final",
+    "lectureId": "lecture-03-design-and-responsive",
+    "slideIds": [
+      "L003-final"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "task3-goal",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-task3-goal"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "state-model",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-state-model"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "loading",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-loading"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "empty",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-empty"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "error",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-error"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "success",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-success"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "fetch-contract",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-fetch-contract-context",
+      "L004-fetch-contract"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "filtering",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-filtering-context",
+      "L004-filtering"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "notifications",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-notifications"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "microanimation",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-microanimation"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "reduced-motion",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-reduced-motion"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "image-performance",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-image-performance"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "dom-budget",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-dom-budget"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "console-errors",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-console-errors"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "keyboard-focus",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-keyboard-focus"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "aria-live",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-aria-live"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "code-standard",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-code-standard"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "offline-performance",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-offline-performance"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "integrated-scenario",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-integrated-scenario"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture04.ts",
+    "sourceId": "lab4-ready",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-lab4-ready"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "title",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-title"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "objectives-plan",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-objectives-plan"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "self-check",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-final"
+    ],
+    "change": "Исходная итоговая самопроверка сохранена в приватном сопровождении итогового слайда; обязательные четыре типа добавлены по вопросам."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "sources",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-sources"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "final",
+    "lectureId": "lecture-04-performance-and-interactivity",
+    "slideIds": [
+      "L004-final"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "strategy",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-strategy"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "time-210",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-time-210"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "time-pu",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-time-pu"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "workspace",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-workspace"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "commits",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-commits-context",
+      "L005-commits"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "minimum-gate",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-minimum-gate"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "db-proof",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-db-proof"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "auth-proof",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-auth-proof"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "reservation-proof",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-reservation-proof"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "admin-proof",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-admin-proof"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "mobile-proof",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-mobile-proof"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "interaction-proof",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-interaction-proof"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "smoke-test",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-smoke-test"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "recover-db",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-recover-db"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "recover-auth",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-recover-auth"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "recover-responsive",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-recover-responsive"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "readme",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-readme"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "defense-script",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-defense-script"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "study-vs-expert",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-study-vs-expert"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "src/data/lectures/lecture05.ts",
+    "sourceId": "final-readiness",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-final-readiness"
+    ],
+    "change": "Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "title",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-title"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "objectives-plan",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-objectives-plan"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "self-check",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-final"
+    ],
+    "change": "Исходная итоговая самопроверка сохранена в приватном сопровождении итогового слайда; обязательные четыре типа добавлены по вопросам."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "sources",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-sources"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  },
+  {
+    "source": "app/course.ts::buildDeck",
+    "sourceId": "final",
+    "lectureId": "lecture-05-demo-and-qa",
+    "slideIds": [
+      "L005-final"
+    ],
+    "change": "Служебный слайд перенесён; источники разделены на литературу и материалы."
+  }
+]

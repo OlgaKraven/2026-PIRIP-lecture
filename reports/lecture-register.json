@@ -1,0 +1,57 @@
+[
+  {
+    "id": "lecture-01-kim-and-mvp",
+    "title": "КИМ 2027: задания, критерии и минимальный рабочий результат",
+    "slides": 87,
+    "questions": 5,
+    "tasks": 20,
+    "visuals": 26,
+    "estimatedMinutes": 121,
+    "officialHours": null,
+    "status": "Сборка, браузер и PDF проверены; опубликованная версия проверяется отдельно"
+  },
+  {
+    "id": "lecture-02-database-backend-security",
+    "title": "База данных, backend и безопасность приложения",
+    "slides": 94,
+    "questions": 5,
+    "tasks": 20,
+    "visuals": 28,
+    "estimatedMinutes": 132,
+    "officialHours": null,
+    "status": "Сборка, браузер и PDF проверены; опубликованная версия проверяется отдельно"
+  },
+  {
+    "id": "lecture-03-design-and-responsive",
+    "title": "Элементы графического дизайна и адаптивность",
+    "slides": 87,
+    "questions": 5,
+    "tasks": 20,
+    "visuals": 26,
+    "estimatedMinutes": 120,
+    "officialHours": null,
+    "status": "Сборка, браузер и PDF проверены; опубликованная версия проверяется отдельно"
+  },
+  {
+    "id": "lecture-04-performance-and-interactivity",
+    "title": "Оптимизация производительности и интерактивность",
+    "slides": 87,
+    "questions": 5,
+    "tasks": 20,
+    "visuals": 26,
+    "estimatedMinutes": 121,
+    "officialHours": null,
+    "status": "Сборка, браузер и PDF проверены; опубликованная версия проверяется отдельно"
+  },
+  {
+    "id": "lecture-05-demo-and-qa",
+    "title": "Репетиция демонстрации по КИМ 2027",
+    "slides": 86,
+    "questions": 5,
+    "tasks": 20,
+    "visuals": 25,
+    "estimatedMinutes": 119,
+    "officialHours": null,
+    "status": "Сборка, браузер и PDF проверены; опубликованная версия проверяется отдельно"
+  }
+]

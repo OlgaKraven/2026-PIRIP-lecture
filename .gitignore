@@ -38,3 +38,8 @@ tsconfig.tsbuildinfo
 /outputs/
 /work/
 /.work/
+
+# Private teacher notes and local QA
+/private/
+/playwright-report/
+/test-results/
