@@ -9,8 +9,8 @@ const browser=await chromium.launch({headless:true});
 const context=await browser.newContext({viewport:{width:1366,height:900},reducedMotion:'reduce'});
 await context.addInitScript(()=>{localStorage.setItem('lecture:/2026-PIRIP-lecture/:pirip-2027:animation','false');});
 const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(String(e)));
-await page.goto(base);await page.getByRole('button',{name:'Открыть',exact:true}).first().waitFor();
-assert.equal(await page.getByRole('button',{name:'Открыть',exact:true}).count(),5);
+await page.goto(base);await page.getByRole('button',{name:'Открыть лекцию',exact:true}).first().waitFor();
+assert.equal(await page.getByRole('button',{name:'Открыть лекцию',exact:true}).count(),5);
 await page.screenshot({path:output+'/catalog.png',fullPage:true});
 await page.setViewportSize({width:1200,height:630});await page.screenshot({path:'public/og.png'});
 const findings=[];let checked=0;
@@ -20,7 +20,7 @@ for(const viewport of (process.env.ONLY_FUNCTIONAL?[]:[{width:1920,height:1080},
  for(const l of course.lectures){for(const s of l.slides){
   await go(l,s);await page.evaluate(()=>document.fonts.ready);
   const bad=await page.locator(`[data-slide-id="${s.id}"]`).evaluate((el)=>{
-   const frame=el.getBoundingClientRect();const nodes=[...el.querySelectorAll('.slide-copy h2,.slide-body-copy,.slide-copy li,.reading-entry,.task-prompt,.choice-grid label,.matching-fields label,.write-note,.slide-image,.infographic')];
+   const frame=el.getBoundingClientRect();const nodes=[...el.querySelectorAll('.slide-copy h2,.slide-body-copy,.slide-copy li,.reading-entry,.task-prompt,.choice-grid label,.matching-fields label,.write-note,.slide-image,.infographic,.rd-flow p,.rd-code,.rd-table,.rd-controls')];
    const overflow=nodes.filter(n=>{const r=n.getBoundingClientRect();return r.width>0&&(r.left<frame.left-2||r.right>frame.right+2||r.bottom>frame.bottom-8);}).map(n=>({tag:n.className||n.tagName,text:n.textContent?.slice(0,90),bottom:Math.round(n.getBoundingClientRect().bottom-frame.bottom)}));
    return {pageOverflow:document.documentElement.scrollWidth>innerWidth+2,overflow};
   });
@@ -55,13 +55,13 @@ for(const s of tasks){
 }
 console.log('Assessment: all four types, empty/correct/incorrect/partial, mobile + reload passed');
 const diagram=lecture.slides.find(s=>s.id.endsWith('-example'));
-await go(lecture,diagram);await page.getByRole('button',{name:'Рассмотреть схему',exact:true}).click();await page.getByRole('dialog').waitFor();await page.keyboard.press('Escape');
+await go(lecture,diagram);await page.getByRole('button',{name:'Развернуть схему',exact:true}).click();await page.getByRole('dialog').waitFor();await page.keyboard.press('Escape');
 const audiencePromise=context.waitForEvent('page');
 await page.getByRole('button',{name:'Начать занятие в двух окнах',exact:true}).click();
 await page.getByRole('button',{name:'Открыть аудиторию',exact:true}).waitFor();
 const audience=await audiencePromise;const audienceRequests=[];audience.on('request',r=>audienceRequests.push(r.url()));await audience.locator('.slide-frame').waitFor();
 await page.locator('input[type="file"]').setInputFiles('private/teacher-pack.json');await page.getByRole('button',{name:'Применить заметки',exact:true}).click();await page.locator('.note-reader').waitFor();assert((await page.locator('.note-reader').innerText()).length>100);
-await page.getByRole('button',{name:'Рассмотреть схему',exact:true}).first().click();await audience.getByRole('dialog').waitFor();await page.keyboard.press('Escape');await audience.getByRole('dialog').waitFor({state:'hidden'});
+await page.getByRole('button',{name:'Развернуть схему',exact:true}).first().click();await audience.getByRole('dialog').waitFor();await page.keyboard.press('Escape');await audience.getByRole('dialog').waitFor({state:'hidden'});
 const before=await audience.locator('.slide-frame').getAttribute('data-slide-id');
 await page.getByRole('button',{name:'Вперёд',exact:true}).click();await audience.waitForFunction(id=>document.querySelector('.slide-frame')?.getAttribute('data-slide-id')!==id,before);
 await audience.reload();await audience.locator('.slide-frame').waitFor();assert(!audienceRequests.some(u=>u.includes('assessment.json')));
@@ -70,4 +70,4 @@ await page.getByRole('button',{name:'Чёрный экран',exact:true}).click
 await fs.writeFile('reports/browser-functional.json',JSON.stringify({status:'passed',assessment:'4 types; empty/correct/incorrect/partial; retry; mobile resize and reload',teaching:'Two actual browser pages; teacher pack import; synchronized diagram; navigation, audience reload, black screen; no bank request',consoleErrors:errors,physicalMonitorsTested:false},null,2));
 await browser.close();
 if(errors.length)throw Error('Browser exceptions: '+errors.join('\n'));
-if(findings.length)console.log('Review geometry findings before release.');
+if(findings.length)throw Error('Geometry findings require repair: '+findings.length);

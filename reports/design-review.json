@@ -1,0 +1,2109 @@
+{
+  "base": "http://127.0.0.1:4198/2026-PIRIP-lecture/",
+  "visuals": 131,
+  "states": 262,
+  "coverage": [
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-kim-structure",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-time-levels",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-points-map",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-criterion-evidence",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q01-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q01-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-minimum-pages",
+      "type": "layers",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-user-scenario",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q02-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q02-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-traceability-matrix",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-minimum-stack",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-git-offline",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-er-preview",
+      "type": "network",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q03-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q03-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-validation-minimum",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-status-review",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-task2-minimum",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q04-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q04-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-evidence-files",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-demo-script",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-loss-patterns",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q05-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q05-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-entities",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-users-table",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-venues-table",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-reservations-table",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q01-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q01-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-er-keys",
+      "type": "network",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-schema-order",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-seed-data",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q02-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q02-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-db-connection",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-oop-boundaries",
+      "type": "layers",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-registration-validation",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-password-hash",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q03-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q03-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-prepared-statements",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-session-login",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-role-guard",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-create-reservation",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q04-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q04-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-ownership-filter",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-status-transition",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-review-rule",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q05-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q05-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-task2-purpose",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-style-guide",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-typography",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-design-tokens",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q01-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q01-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-wireframe-to-html",
+      "type": "layers",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-ui-kit",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-validation-states",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q02-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q02-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-selects",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-admin-card",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-mobile-layout",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-navigation-mobile",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q03-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q03-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-image-optimization",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-messages",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q04-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q04-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-contrast-focus",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-responsive-test",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-consistency-audit",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q05-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q05-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-task3-goal",
+      "type": "layers",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-state-model",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-loading",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q01-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q01-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-error",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-success",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-fetch-contract",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-filtering",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q02-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q02-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-notifications",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-microanimation",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-reduced-motion",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-image-performance",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q03-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q03-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-dom-budget",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-keyboard-focus",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-aria-live",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q04-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q04-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-code-standard",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-integrated-scenario",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q05-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q05-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-strategy",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-time-210",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-workspace",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q01-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q01-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-commits",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-minimum-gate",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-db-proof",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-auth-proof",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q02-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q02-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-mobile-proof",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-interaction-proof",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q03-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q03-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-smoke-test",
+      "type": "codeParts",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-recover-db",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-recover-auth",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q04-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q04-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-readme",
+      "type": "matrix",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-defense-script",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-study-vs-expert",
+      "type": "comparison",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q05-example",
+      "type": "process",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q05-diagnostic",
+      "type": "cause",
+      "theme": "light",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-kim-structure",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-time-levels",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-points-map",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-criterion-evidence",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q01-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q01-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-minimum-pages",
+      "type": "layers",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-user-scenario",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q02-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q02-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-traceability-matrix",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-minimum-stack",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-git-offline",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-er-preview",
+      "type": "network",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q03-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q03-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-validation-minimum",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-status-review",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-task2-minimum",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q04-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q04-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-evidence-files",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-demo-script",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-loss-patterns",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q05-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q05-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-entities",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-users-table",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-venues-table",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-reservations-table",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q01-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q01-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-er-keys",
+      "type": "network",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-schema-order",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-seed-data",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q02-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q02-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-db-connection",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-oop-boundaries",
+      "type": "layers",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-registration-validation",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-password-hash",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q03-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q03-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-prepared-statements",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-session-login",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-role-guard",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-create-reservation",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q04-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q04-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-ownership-filter",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-status-transition",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-review-rule",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q05-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q05-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-task2-purpose",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-style-guide",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-typography",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-design-tokens",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q01-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q01-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-wireframe-to-html",
+      "type": "layers",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-ui-kit",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-validation-states",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q02-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q02-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-selects",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-admin-card",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-mobile-layout",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-navigation-mobile",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q03-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q03-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-image-optimization",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-messages",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q04-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q04-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-contrast-focus",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-responsive-test",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-consistency-audit",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q05-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q05-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-task3-goal",
+      "type": "layers",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-state-model",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-loading",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q01-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q01-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-error",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-success",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-fetch-contract",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-filtering",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q02-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q02-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-notifications",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-microanimation",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-reduced-motion",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-image-performance",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q03-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q03-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-dom-budget",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-keyboard-focus",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-aria-live",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q04-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q04-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-code-standard",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-integrated-scenario",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q05-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q05-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-strategy",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-time-210",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-workspace",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q01-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q01-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-commits",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-minimum-gate",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-db-proof",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-auth-proof",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q02-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q02-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-mobile-proof",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-interaction-proof",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q03-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q03-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-smoke-test",
+      "type": "codeParts",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-recover-db",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-recover-auth",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q04-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q04-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-readme",
+      "type": "matrix",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-defense-script",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-study-vs-expert",
+      "type": "comparison",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q05-example",
+      "type": "process",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q05-diagnostic",
+      "type": "cause",
+      "theme": "dark",
+      "rendered": true,
+      "headerExpansion": true
+    }
+  ],
+  "stepsMirror": true,
+  "stepRestoredAfterReload": true,
+  "diagramModalMirrors": true,
+  "themeMirrors": true,
+  "notesPrivate": true,
+  "errors": []
+}

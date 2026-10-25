@@ -13,6 +13,7 @@ for(const l of course.lectures){
  const url=new URL(base);url.search=new URLSearchParams({mode:'print',scope:l.id}).toString();
  await page.goto(url.href);await page.locator('.print-page').last().waitFor();
  await page.evaluate(async()=>{await document.fonts.ready;await Promise.all([...document.images].map(im=>im.decode().catch(()=>{})));});
+ await page.evaluate(title=>{document.title=title},l.title);
  await page.emulateMedia({media:'print'});
  const file=path.join(output,l.id+'.pdf');
  await page.pdf({path:file,printBackground:true,preferCSSPageSize:true,displayHeaderFooter:false});

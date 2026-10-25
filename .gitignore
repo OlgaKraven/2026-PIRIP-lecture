@@ -43,3 +43,4 @@ tsconfig.tsbuildinfo
 /private/
 /playwright-report/
 /test-results/
+/vendor/lecture-engine-pirip/source/lib/

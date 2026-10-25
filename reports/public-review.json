@@ -1,0 +1,1912 @@
+{
+  "base": "http://127.0.0.1:4198/2026-PIRIP-lecture/",
+  "contentVersion": "pirip-2027-template-1",
+  "totalSlides": 441,
+  "results": [
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q01-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nДоказательства. Требование → реализация → проверка → наблюдаемый результат. Максимум ГИА ДЭ БУ — 75 баллов; учебная самопроверка не выставляет экзаменационную оценку.\n\nПравильный ответ\n\nДоказательства\n\nДоказательства: Соответствует усл",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q01-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: ПА — Промежуточная аттестация: одно задание, 90 минут. ГИА ДЭ БУ — Базовый уровень: три задания, всего 210 минут.\n\nПравильный ответ\n\nГИА ДЭ БУ — Базовый уровень: три задания, всего 210 минут.; ПА — Промежуточная ",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q01-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКритерий — Основание для оценивания результата по КИМ.\n\nПравильный ответ\n\nКритерий",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q01-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nПА — Промежуточная аттестация: одно задание, 90 минут. ГИА ДЭ БУ — Базовый уровень: три задания, всего 210 минут. Критерий — Основание для оценивания результата по КИМ. Доказательство — Наблюдаемый результат воспроизводимой проверки.\n\n",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q02-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nАвторизация. Вход подтверждает личность; проверка прав разрешает конкретное действие. Для каждой роли проверяют разрешённые и запрещённые переходы.\n\nПравильный ответ\n\nАвторизация\n\nРегистрация: Этот вариант не обозначает требуемое дейст",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q02-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Регистрация — Создание учётной записи с проверкой полей. Аутентификация — Подтверждение личности при входе.\n\nПравильный ответ\n\nРегистрация — Создание учётной записи с проверкой полей.; Аутентификация — Подтвержде",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q02-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nАвторизация — Проверка права выполнить действие или прочитать данные.\n\nПравильный ответ\n\nАвторизация",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q02-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d2"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": false,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nРегистрация — Создание учётной записи с проверкой полей. Аутентификация — Подтверждение личности при входе. Авторизация — Проверка права выполнить действие или прочитать данные. Сценарий — Последовательность действий роли и наблюдаемых",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q03-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nER-диаграмма. Полный стек: браузер → серверные правила → БД. Подготовительный день предназначен для проверки среды, а не для написания экзаменационного решения.\n\nПравильный ответ\n\nER-диаграмма\n\nFrontend: Этот вариант не обозначает треб",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q03-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Frontend — Интерфейс в браузере: ввод и отображение результата. Backend — Серверная обработка запросов и бизнес-правил.\n\nПравильный ответ\n\nFrontend — Интерфейс в браузере: ввод и отображение результата.; Backend ",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q03-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nER-диаграмма — Модель сущностей данных и связей между ними.\n\nПравильный ответ\n\nER-диаграмма",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q03-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nFrontend — Интерфейс в браузере: ввод и отображение результата. Backend — Серверная обработка запросов и бизнес-правил. ER-диаграмма — Модель сущностей данных и связей между ними. Репозиторий — Хранилище файлов проекта и истории измене",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q04-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nЗавершено. Валидация проверяет входные данные; бизнес-правило проверяет допустимость действия. Отзыв разрешён владельцу завершённой заявки.\n\nПравильный ответ\n\nЗавершено\n\nВалидация: Этот вариант не обозначает требуемое действие или усло",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q04-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Валидация — Проверка данных по ограничениям перед сохранением. Новая — Начальный статус созданной заявки.\n\nПравильный ответ\n\nВалидация — Проверка данных по ограничениям перед сохранением.; Новая — Начальный стату",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q04-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nЗавершено — Статус, после которого допускается отзыв.\n\nПравильный ответ\n\nЗавершено",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q04-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nВалидация — Проверка данных по ограничениям перед сохранением. Новая — Начальный статус созданной заявки. Завершено — Статус, после которого допускается отзыв. Адаптивность — Перестройка интерфейса под доступную ширину экрана.\n\nПравиль",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q05-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nТрассировка. Готовность = работающий сценарий + отрицательные проверки + воспроизводимый запуск + сохранённые артефакты.\n\nПравильный ответ\n\nТрассировка\n\nТрассировка: Соответствует условию: Готовность = работающий сценарий + отрицательн",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q05-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Трассировка — Связь требования с реализацией и проверкой. Smoke-тест — Короткая проверка основных функций приложения.\n\nПравильный ответ\n\nТрассировка — Связь требования с реализацией и проверкой.; Smoke-тест — Кор",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q05-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nREADME — Описание воспроизводимого запуска и проверки проекта.\n\nПравильный ответ\n\nREADME",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "id": "L001-Q05-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nТрассировка — Связь требования с реализацией и проверкой. Smoke-тест — Короткая проверка основных функций приложения. README — Описание воспроизводимого запуска и проверки проекта. Коммит — Зафиксированное состояние выбранных файлов пр",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "type": "reload",
+      "audienceSlide": "L001-Q05-T04-slide",
+      "notesVisible": 0
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q01-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nUNIQUE. PK идентифицирует строку; FK связывает записи; UNIQUE запрещает дубликаты. Сущности выбирают по функциям приложения.\n\nПравильный ответ\n\nUNIQUE\n\nВнешний ключ: Этот вариант не обозначает требуемое действие или условие. В вопросе ",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q01-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Первичный ключ — Уникальный идентификатор строки таблицы. Внешний ключ — Ограничение ссылки на существующую связанную запись.\n\nПравильный ответ\n\nПервичный ключ — Уникальный идентификатор строки таблицы.; Внешний ",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q01-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nUNIQUE — Ограничение уникальности значения или набора значений.\n\nПравильный ответ\n\nUNIQUE",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q01-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nПервичный ключ — Уникальный идентификатор строки таблицы. Внешний ключ — Ограничение ссылки на существующую связанную запись. UNIQUE — Ограничение уникальности значения или набора значений. Справочник — Набор допустимых объектов со ста",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q02-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nschema.sql. Сначала независимые таблицы, затем зависимые. Повторяемость seed.sql должна быть реализована и проверена, а не объявлена по имени файла.\n\nПравильный ответ\n\nschema.sql\n\nОдин-ко-многим: Этот вариант не обозначает требуемое де",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q02-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: schema.sql — Файл создания структуры таблиц и ограничений. seed.sql — Файл начального наполнения учебной базы.\n\nПравильный ответ\n\nschema.sql — Файл создания структуры таблиц и ограничений.; seed.sql — Файл началь",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q02-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nОдин-ко-многим — Один объект связан с несколькими объектами другого типа.\n\nПравильный ответ\n\nОдин-ко-многим",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q02-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nschema.sql — Файл создания структуры таблиц и ограничений. seed.sql — Файл начального наполнения учебной базы. Один-ко-многим — Один объект связан с несколькими объектами другого типа. Один-к-одному — Одному объекту соответствует не бо",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q03-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\npassword_verify. Проверять данные на сервере; хешировать пароль; роль назначать на сервере. Хеш пароля не является его шифрованной копией для обратного восстановления.\n\nПравильный ответ\n\npassword_verify\n\nСерверная валидация длины: Этот",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q03-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Нормализация — Приведение допускаемых данных к согласованному формату. password_hash — Функция PHP для создания хеша пароля.\n\nПравильный ответ\n\nНормализация — Приведение допускаемых данных к согласованному формат",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q03-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\npassword_verify — Функция PHP для проверки пароля по сохранённому хешу.\n\nПравильный ответ\n\npassword_verify",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q03-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d2"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": false,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nНормализация — Приведение допускаемых данных к согласованному формату. password_hash — Функция PHP для создания хеша пароля. password_verify — Функция PHP для проверки пароля по сохранённому хешу. Серверная валидация — Проверка входа о",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q04-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\n403. Параметризация защищает структуру SQL. Сессия устанавливает пользователя. Проверка прав ограничивает доступ к данным и операциям.\n\nПравильный ответ\n\n403\n\n403: Соответствует условию: Параметризация защищает структуру SQL. Сессия ус",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q04-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Параметр SQL — Значение, передаваемое отдельно от структуры запроса. Сессия — Серверный контекст вошедшего пользователя.\n\nПравильный ответ\n\nПараметр SQL — Значение, передаваемое отдельно от структуры запроса.; Се",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q04-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\n403 — HTTP-статус отказа в доступе к операции.\n\nПравильный ответ\n\n403",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q04-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nПараметр SQL — Значение, передаваемое отдельно от структуры запроса. Сессия — Серверный контекст вошедшего пользователя. 403 — HTTP-статус отказа в доступе к операции. Проверка роли — Серверное решение о полномочиях текущего пользовате",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q05-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nБелый список. Для отзыва: подтверждённый пользователь + владение + завершённое мероприятие + корректный текст. Ограничение одного отзыва — условие учебной модели.\n\nПравильный ответ\n\nБелый список\n\nВладелец: Этот вариант не обозначает тр",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q05-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Владелец — Пользователь, которому принадлежит заявка. Белый список — Явно перечисленный набор допустимых значений.\n\nПравильный ответ\n\nБелый список — Явно перечисленный набор допустимых значений.; Владелец — Польз",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q05-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nБизнес-правило — Ограничение действия по смыслу предметной области.\n\nПравильный ответ\n\nБизнес-правило",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "id": "L002-Q05-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nВладелец — Пользователь, которому принадлежит заявка. Белый список — Явно перечисленный набор допустимых значений. Бизнес-правило — Ограничение действия по смыслу предметной области. Транзакция — Группа операций БД, фиксируемая или отм",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "type": "reload",
+      "audienceSlide": "L002-Q05-T04-slide",
+      "notesVisible": 0
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q01-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nPT Sans. Стиль портала задаёт приложение КИМ; стиль лекционного сайта задаёт шаблон. Токен хранит единое решение, а не случайное значение отдельного экрана.\n\nПравильный ответ\n\nPT Sans\n\nИерархия: Этот вариант не обозначает требуемое дей",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q01-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Дизайн-токен — Именованное значение общего визуального решения. PT Sans — Основной шрифт приложения по приложенному руководству.\n\nПравильный ответ\n\nДизайн-токен — Именованное значение общего визуального решения.;",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q01-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nИерархия — Порядок визуальной значимости заголовков и текста.\n\nПравильный ответ\n\nИерархия",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q01-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nДизайн-токен — Именованное значение общего визуального решения. PT Sans — Основной шрифт приложения по приложенному руководству. Иерархия — Порядок визуальной значимости заголовков и текста. Палитра — Согласованный набор цветов интерфе",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q02-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nerror. Поле = label + control + hint + error. Подпись остаётся видимой после ввода; сообщение об ошибке сообщает действие для исправления.\n\nПравильный ответ\n\nerror\n\nhint: Этот вариант не обозначает требуемое действие или условие. В воп",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q02-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: label — Видимая подпись, связанная с элементом ввода. control — Элемент ввода или выбора значения.\n\nПравильный ответ\n\nlabel — Видимая подпись, связанная с элементом ввода.; control — Элемент ввода или выбора знач",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q02-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nhint — Подсказка о формате или назначении ввода.\n\nПравильный ответ\n\nhint",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q02-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nlabel — Видимая подпись, связанная с элементом ввода. control — Элемент ввода или выбора значения. hint — Подсказка о формате или назначении ввода. error — Сообщение о причине ошибки и способе исправления.\n\nПравильный ответ\n\nlabel → Ви",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q03-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nBreakpoint. Мобильная версия сохраняет функции и читаемость. При 390 px перестраивают колонки, а не уменьшают всю страницу.\n\nПравильный ответ\n\nBreakpoint\n\nBreakpoint: Соответствует условию: Мобильная версия сохраняет функции и читаемос",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q03-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Select — Элемент выбора из заданных вариантов. Карточка — Смысловая группа данных одного объекта и его действий.\n\nПравильный ответ\n\nSelect — Элемент выбора из заданных вариантов.; Карточка — Смысловая группа данн",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q03-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nViewport — Видимая область страницы, используемая при проверке адаптивности.\n\nПравильный ответ\n\nViewport",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q03-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        ""
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": false,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nSelect — Элемент выбора из заданных вариантов. Карточка — Смысловая группа данных одного объекта и его действий. Viewport — Видимая область страницы, используемая при проверке адаптивности. Breakpoint — Условие ширины, при котором изме",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q04-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nEmpty. Качество медиа проверяют в целевом блоке. Empty означает отсутствие результатов, error — сбой операции.\n\nПравильный ответ\n\nEmpty\n\nError: Этот вариант не обозначает требуемое действие или условие. В вопросе требуется: Empty.\nalt:",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q04-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: alt — Текстовая альтернатива содержательного изображения. Кадрирование — Выбор видимой части изображения под назначение блока.\n\nПравильный ответ\n\nКадрирование — Выбор видимой части изображения под назначение блок",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q04-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nEmpty — Успешное получение списка без подходящих записей.\n\nПравильный ответ\n\nEmpty",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q04-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        ""
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": false,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nalt — Текстовая альтернатива содержательного изображения. Кадрирование — Выбор видимой части изображения под назначение блока. Empty — Успешное получение списка без подходящих записей. Error — Состояние неуспешной операции с возможност",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q05-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nРегрессия. Проверка охватывает все страницы, состояния и способы ввода. Отсутствие полосы прокрутки ещё не доказывает отсутствие обрезки.\n\nПравильный ответ\n\nРегрессия\n\nФокус: Этот вариант не обозначает требуемое действие или условие. В",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q05-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Контраст — Различимость текста или элемента относительно фона. Фокус — Текущий элемент взаимодействия с клавиатурой.\n\nПравильный ответ\n\nКонтраст — Различимость текста или элемента относительно фона.; Фокус — Теку",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q05-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nПереполнение — Выход содержимого за доступные границы блока или страницы.\n\nПравильный ответ\n\nПереполнение",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "id": "L003-Q05-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКонтраст — Различимость текста или элемента относительно фона. Фокус — Текущий элемент взаимодействия с клавиатурой. Переполнение — Выход содержимого за доступные границы блока или страницы. Регрессия — Нарушение ранее работавшего пове",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "type": "reload",
+      "audienceSlide": "L003-Q05-T04-slide",
+      "notesVisible": 0
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q01-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nLoading. Loading, empty, error и success описывают разные исходы взаимодействия; состояние запроса хранится отдельно от данных.\n\nПравильный ответ\n\nLoading\n\nSuccess: Этот вариант не обозначает требуемое действие или условие. В вопросе т",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q01-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Loading — Операция выполняется, окончательный результат ещё неизвестен. Empty — Операция успешна, подходящих записей нет.\n\nПравильный ответ\n\nLoading — Операция выполняется, окончательный результат ещё неизвестен.",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q01-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nError — Операция завершилась неуспешно.\n\nПравильный ответ\n\nError",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q01-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nLoading — Операция выполняется, окончательный результат ещё неизвестен. Empty — Операция успешна, подходящих записей нет. Error — Операция завершилась неуспешно. Success — Получен или сохранён ожидаемый результат.\n\nПравильный ответ\n\nLo",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q02-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nresponse.ok. Ответ → HTTP-статус → JSON → структура данных → актуальность → отображение. Каждый шаг имеет отдельный путь ошибки.\n\nПравильный ответ\n\nresponse.ok\n\nresponse.ok: Соответствует условию: Ответ → HTTP-статус → JSON → структура",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q02-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: response.ok — Признак HTTP-статуса в успешном диапазоне 200–299. JSON — Текстовый формат передачи структурированных данных.\n\nПравильный ответ\n\nresponse.ok — Признак HTTP-статуса в успешном диапазоне 200–299.; JSO",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q02-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nAbortController — Средство отмены поддерживающего сигнал запроса.\n\nПравильный ответ\n\nAbortController",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q02-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nresponse.ok — Признак HTTP-статуса в успешном диапазоне 200–299. JSON — Текстовый формат передачи структурированных данных. AbortController — Средство отмены поддерживающего сигнал запроса. Фильтр — Отбор данных по выбранному условию.\n",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q03-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nLayout shift. Движение дополняет смысл. Reduced motion сохраняет содержание; размеры изображений уменьшают неожиданные сдвиги.\n\nПравильный ответ\n\nLayout shift\n\nToast: Этот вариант не обозначает требуемое действие или условие. В вопросе",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q03-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Inline-сообщение — Сообщение в контексте поля или блока. Toast — Краткое уведомление о результате операции.\n\nПравильный ответ\n\nToast — Краткое уведомление о результате операции.; Inline-сообщение — Сообщение в ко",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q03-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nReduced motion — Предпочтение пользователя уменьшить движение интерфейса.\n\nПравильный ответ\n\nReduced motion",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q03-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nInline-сообщение — Сообщение в контексте поля или блока. Toast — Краткое уведомление о результате операции. Reduced motion — Предпочтение пользователя уменьшить движение интерфейса. Layout shift — Нежелательный сдвиг расположения элеме",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q04-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nВозврат фокуса. Диалог: открытие → фокус внутри → закрытие → возврат фокуса. Динамический результат объявляют без ненужного перемещения пользователя.\n\nПравильный ответ\n\nВозврат фокуса\n\nrole=\"status\": Этот вариант не обозначает требуемо",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q04-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: DOM — Дерево объектов документа, с которым работает браузер. role=\"status\" — Семантика некритического динамического сообщения.\n\nПравильный ответ\n\nDOM — Дерево объектов документа, с которым работает браузер.; role",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q04-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nrole=\"alert\" — Семантика срочного сообщения, требующего внимания.\n\nПравильный ответ\n\nrole=\"alert\"",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q04-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nDOM — Дерево объектов документа, с которым работает браузер. role=\"status\" — Семантика некритического динамического сообщения. role=\"alert\" — Семантика срочного сообщения, требующего внимания. Возврат фокуса — Восстановление фокуса на ",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q05-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nНегативный сценарий. Проверять нужно результат на границах системы: действие → запрос → данные → отображение. Чистая консоль является дополнительным свидетельством.\n\nПравильный ответ\n\nНегативный сценарий\n\nСтандарт кода: Этот вариант не",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q05-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Интеграция — Совместная работа нескольких частей приложения. Негативный сценарий — Проверка ожидаемого отказа при некорректном действии или данных.\n\nПравильный ответ\n\nИнтеграция — Совместная работа нескольких час",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q05-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nОфлайн-ресурс — Файл, доступный без внешнего интернет-соединения.\n\nПравильный ответ\n\nОфлайн-ресурс",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "id": "L004-Q05-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nИнтеграция — Совместная работа нескольких частей приложения. Негативный сценарий — Проверка ожидаемого отказа при некорректном действии или данных. Офлайн-ресурс — Файл, доступный без внешнего интернет-соединения. Стандарт кода — Согла",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "type": "reload",
+      "audienceSlide": "L004-Q05-T04-slide",
+      "notesVisible": 0
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q01-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nПодготовительный день. БУ: 90 + 60 + 60 = 210 минут. Внутренние резервы — учебная стратегия; подготовительный день не предназначен для реализации решения.\n\nПравильный ответ\n\nПодготовительный день\n\nПодготовительный день: Соответствует у",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q01-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Задание 1 — Проектирование и разработка приложения: 90 минут. Задание 2 — Разработка элементов графического дизайна: 60 минут.\n\nПравильный ответ\n\nЗадание 1 — Проектирование и разработка приложения: 90 минут.; Зад",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q01-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nЗадание 3 — Оптимизация и интерактивность: 60 минут.\n\nПравильный ответ\n\nЗадание 3",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q01-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nЗадание 1 — Проектирование и разработка приложения: 90 минут. Задание 2 — Разработка элементов графического дизайна: 60 минут. Задание 3 — Оптимизация и интерактивность: 60 минут. Подготовительный день — Проверка рабочего места и подкл",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q02-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\ngit status. Перед коммитом: проверить результат, сверить артефакты, посмотреть подготовленные изменения. Файл в редакторе ещё не является переданным файлом.\n\nПравильный ответ\n\ngit status\n\nКоммит: Этот вариант не обозначает требуемое де",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q02-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: git status — Проверка изменённых и подготовленных к коммиту файлов. Коммит — Фиксация подготовленных файлов в истории репозитория.\n\nПравильный ответ\n\nКоммит — Фиксация подготовленных файлов в истории репозитория.",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q02-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nER-диаграмма — Представление сущностей и связей модели данных.\n\nПравильный ответ\n\nER-диаграмма",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q02-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\ngit status — Проверка изменённых и подготовленных к коммиту файлов. Коммит — Фиксация подготовленных файлов в истории репозитория. ER-диаграмма — Представление сущностей и связей модели данных. Проверочный запуск — Воспроизведение запу",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q03-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nПроверка сохранения. Один id связывает создание, просмотр, изменение статуса и отзыв. Проверка сохранения требует повторного чтения данных.\n\nПравильный ответ\n\nПроверка сохранения\n\nМобильный сценарий: Этот вариант не обозначает требуемо",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q03-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Идентификатор заявки — Стабильное обозначение проверяемой записи. Проверка владения — Подтверждение, что данные доступны разрешённому пользователю.\n\nПравильный ответ\n\nИдентификатор заявки — Стабильное обозначение",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q03-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nПроверка сохранения — Подтверждение результата после повторного чтения данных.\n\nПравильный ответ\n\nПроверка сохранения",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q03-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": true,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nИдентификатор заявки — Стабильное обозначение проверяемой записи. Проверка владения — Подтверждение, что данные доступны разрешённому пользователю. Проверка сохранения — Подтверждение результата после повторного чтения данных. Мобильны",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q04-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nМини-тест. Симптом → гипотеза → мини-тест → исправление → повторная проверка. Изменять только то, что подтверждено диагностикой.\n\nПравильный ответ\n\nМини-тест\n\nПовторная проверка всего курса: Этот вариант не обозначает требуемое действи",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q04-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Симптом — Наблюдаемое проявление ошибки. Гипотеза — Проверяемое предположение о причине.\n\nПравильный ответ\n\nСимптом — Наблюдаемое проявление ошибки.; Гипотеза — Проверяемое предположение о причине.\n\nСимптом — Наб",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q04-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nМини-тест — Короткая проверка одной конкретной гипотезы.\n\nПравильный ответ\n\nМини-тест",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q04-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d2"
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": false,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nСимптом — Наблюдаемое проявление ошибки. Гипотеза — Проверяемое предположение о причине. Мини-тест — Короткая проверка одной конкретной гипотезы. Повторная проверка — Повтор исходного сценария после исправления.\n\nПравильный ответ\n\nСимп",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q05-T01-slide",
+      "type": "single",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nВоспроизводимость. README описывает текущую версию; показ подтверждает результат; ограничения называются явно. Учебный балл не равен оценке ДЭ.\n\nПравильный ответ\n\nВоспроизводимость\n\nВоспроизводимость: Соответствует условию: README опис",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q05-T02-slide",
+      "type": "multiple",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nКорректны определения: Воспроизводимость — Возможность получить результат по сохранённым шагам и исходникам. Ограничение — Конкретная граница реализованного или проверенного поведения.\n\nПравильный ответ\n\nВоспроизводимость — Возможность",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q05-T03-slide",
+      "type": "short",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nСамооценка — Учебная проверка собственной работы для поиска пробелов.\n\nПравильный ответ\n\nСамооценка",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "id": "L005-Q05-T04-slide",
+      "type": "matching",
+      "keyboardValues": [
+        "d0",
+        "d1",
+        "d2",
+        "d3"
+      ],
+      "audienceValues": [
+        "d0",
+        "d1",
+        "d2",
+        ""
+      ],
+      "keyboardMatches": true,
+      "selectionMirrors": false,
+      "mousePopupMirror": "not-confirmed-native-select",
+      "status": "Правильно · 1 / 1",
+      "modalOpens": true,
+      "dialogText": "Разбор ответа\n\nВоспроизводимость — Возможность получить результат по сохранённым шагам и исходникам. Ограничение — Конкретная граница реализованного или проверенного поведения. Самооценка — Учебная проверка собственной работы для поиска пробелов. Экс",
+      "sameExplanation": true,
+      "audienceDialog": 1,
+      "escapeCloses": true,
+      "closeButton": true,
+      "audienceStatus": [
+        "Правильно · 1 / 1"
+      ]
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "type": "reload",
+      "audienceSlide": "L005-Q05-T04-slide",
+      "notesVisible": 0
+    }
+  ]
+}

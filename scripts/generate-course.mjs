@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises';
 import {blocks} from '../authoring/blocks.mjs';
+import {refineVisual,visualDescriptions} from '../authoring/visual-design.mjs';
 const settings=JSON.parse(await fs.readFile('authoring/settings.json','utf8'));
 const original=JSON.parse(await fs.readFile('authoring/original-course.json','utf8'));
 let privateOriginal;try{privateOriginal=JSON.parse(await fs.readFile('private/original-course.json','utf8'));}catch{ /* optional existing notes */ }
@@ -21,7 +22,7 @@ const literature={primary:[
 ],additional:[{citation:'Богданова, С. В. Технологии программирования. Ч. 2. 2024',url:'https://www.iprbookshop.ru/books/156618/details'}]};
 const course={schemaVersion:1,contentVersion:version,id:'pirip-2027',code:'ПИРИП',discipline:'Проектирование и разработка интерфейсов пользователя',year:settings.year,
  heroTitle:'Проектируем интерфейсы.',heroAccent:'Доказываем результат.',slogan:'От требований КИМ к понятному и работающему приложению.',
- mascot:'brand/rhino-designer.webp',mascotAlt:'Носорог-проектировщик интерфейсов',logo:'brand/synergy-logo.png',ornament:'brand/side-ornament.webp',font:'fonts/raleway-cyrillic.woff2',topicArrow:'brand/topic-arrow.webp',
+ mascot:'brand/rhino-interface-designer.webp',mascotAlt:'Носорог проектирует широкий и мобильный интерфейсы на графическом дисплее',logo:'brand/synergy-wordmark.jpg',mark:'brand/synergy-mark.png',ornament:'brand/side-ornament.webp',font:'fonts/raleway-cyrillic.woff2',topicArrow:'brand/topic-arrow.webp',
  materialsUrl:'https://disk.yandex.ru/d/doO6apAunlrARw',literature,assessment:{mode:'autonomous',url:'assessment.json'},demo:false,semesters:[settings.semester],lectures:[],glossary:[],curriculum:[]};
 const bank={schemaVersion:1,courseId:course.id,contentVersion:version,mode:'autonomous-educational',notice:'Учебная автономная самопроверка. Ключи доступны в файле сайта; результат не является оценкой ДЭ.',keys:{}};
 const pack={schemaVersion:1,courseId:course.id,contentVersion:version,notes:{}};
@@ -84,6 +85,7 @@ for(let li=0;li<5;li++){
    else if(p.compare)s.visual={type:'comparison',columns:[p.compare.leftTitle,p.compare.rightTitle],rows:Array.from({length:Math.max(p.compare.left.length,p.compare.right.length)},(_,i)=>[p.compare.left[i]||'—',p.compare.right[i]||'—']),caption:p.title+'. Сопоставьте назначения и ограничения двух вариантов.'};
    else if(p.cards)s.visual={type:'matrix',columns:['Элемент','Назначение или условие'],rows:p.cards.map(x=>[x.label,x.value]),caption:p.title+'. Таблица связывает каждый элемент с его назначением.'};
    if(p.media){s.image={src:'data:image/jpeg;base64,'+(await fs.readFile('public'+p.media)).toString('base64'),alt:p.mediaAlt,caption:'Из предоставленного приложения КИМ. Назначение: '+p.title};}
+   if(s.visual)s.visual=refineVisual(p.id,s.visual);
    if(s.visual&&s.bullets?.length>3&&s.visual.type==='codeParts'){s.body=[s.body,...s.bullets].filter(Boolean).join(' ');delete s.bullets;}
    const relatedIds=[];
    if((s.visual||s.image)&&(s.body||s.bullets)){
@@ -93,7 +95,7 @@ for(let li=0;li<5;li++){
    }
    const originalNote=privateOriginal?.lectures[li].content[pi].teacherNote||'';
    const raw=[p.subtitle,p.quote,...(p.bullets||[]),...(p.cards||[]).map(x=>x.label+' — '+x.value),...(p.steps||[]).map(x=>x.title+': '+x.text),p.compare?`${p.compare.leftTitle}: ${p.compare.left.join('; ')}. ${p.compare.rightTitle}: ${p.compare.right.join('; ')}`:''].filter(Boolean).join(' ');
-   const codeExplain=p.code?'В примере показан следующий фрагмент: '+p.code+'. '+(p.bullets?.join(' ')||'Он иллюстрирует структуру данных или последовательность операций, а не готовое приложение. Требуемое окружение и проверки рассматриваются в текущем вопросе.') : '';
+   const codeExplain=p.id==='er-preview'||p.id==='er-keys'?'Сначала читаем сущности: пользователь, заявка, помещение и отзыв. У пользователя и помещения может быть несколько заявок, но заявка хранит одного владельца и одно помещение. Ссылка задаётся внешним ключом. В выбранной модели у заявки ноль или один отзыв: это требует UNIQUE на reservation_id. Изменение названия помещения не разрывает связь, потому что она хранится через id.':p.code?(visualDescriptions[p.id]?.[1]||p.bullets?.join(' ')||'Разберите исходные данные, действие и проверяемый результат фрагмента.') : '';
    add(s,{script:'На этом шаге рассматриваем: '+p.title+'. '+raw+' '+codeExplain,preparation:source(p.sourceIds)+(originalNote?'\nСохранённая авторская заметка: '+originalNote:''),questions:p.check? p.check.question+' '+p.check.answer+'. '+p.check.explanation:'',seconds:p.code?100:s.visual?85:70});
    migration.push({source:`src/data/lectures/lecture${String(li+1).padStart(2,'0')}.ts`,sourceId:p.id,lectureId:old.id,slideIds:[...relatedIds,id],change:'Перенос всех ученических полей в модель общего движка; заметки отделены; пояснения перед сложной графикой вынесены отдельно.'});originals.push(id);
   }

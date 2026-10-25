@@ -8,7 +8,7 @@
     "visuals": 26,
     "estimatedMinutes": 121,
     "officialHours": null,
-    "status": "Сборка, браузер и PDF проверены; опубликованная версия проверяется отдельно"
+    "status": "Содержание собрано; требуется проверка сборки и PDF"
   },
   {
     "id": "lecture-02-database-backend-security",
@@ -19,7 +19,7 @@
     "visuals": 28,
     "estimatedMinutes": 132,
     "officialHours": null,
-    "status": "Сборка, браузер и PDF проверены; опубликованная версия проверяется отдельно"
+    "status": "Содержание собрано; требуется проверка сборки и PDF"
   },
   {
     "id": "lecture-03-design-and-responsive",
@@ -30,7 +30,7 @@
     "visuals": 26,
     "estimatedMinutes": 120,
     "officialHours": null,
-    "status": "Сборка, браузер и PDF проверены; опубликованная версия проверяется отдельно"
+    "status": "Содержание собрано; требуется проверка сборки и PDF"
   },
   {
     "id": "lecture-04-performance-and-interactivity",
@@ -41,7 +41,7 @@
     "visuals": 26,
     "estimatedMinutes": 121,
     "officialHours": null,
-    "status": "Сборка, браузер и PDF проверены; опубликованная версия проверяется отдельно"
+    "status": "Содержание собрано; требуется проверка сборки и PDF"
   },
   {
     "id": "lecture-05-demo-and-qa",
@@ -52,6 +52,6 @@
     "visuals": 25,
     "estimatedMinutes": 119,
     "officialHours": null,
-    "status": "Сборка, браузер и PDF проверены; опубликованная версия проверяется отдельно"
+    "status": "Содержание собрано; требуется проверка сборки и PDF"
   }
 ]
