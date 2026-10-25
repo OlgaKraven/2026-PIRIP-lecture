@@ -1,0 +1,56 @@
+.catalog.approved-catalog{padding:0;max-width:none;margin:0;min-height:100dvh;background:var(--surface-2);--catalog-red:#d31626;--catalog-soft:#eeeeef}
+:root[data-theme=dark] .approved-catalog{--catalog-red:#ff5360;--catalog-soft:#303035}
+.catalog.approved-catalog .catalog-header{min-height:72px;padding:12px 28px;margin:0;max-width:none;display:flex;gap:18px;background:var(--surface);border-bottom:1px solid var(--border)}
+.catalog.approved-catalog .brand-lockup{gap:10px;min-width:0;font-size:13px;line-height:1.3}
+.catalog.approved-catalog .brand-lockup>img{width:32px;height:32px;flex:0 0 32px;mix-blend-mode:normal;filter:none}
+:root[data-theme=dark] .catalog.approved-catalog .brand-lockup>img{filter:none;mix-blend-mode:normal}
+.catalog.approved-catalog .brand-lockup strong{display:block;font-size:13px;font-weight:600}
+.catalog.approved-catalog .brand-lockup small{display:block;font-size:11px;font-weight:400;letter-spacing:.02em;max-width:430px;margin-top:3px}
+.catalog.approved-catalog .catalog-header nav{display:flex;gap:20px;align-items:center}
+.catalog.approved-catalog .catalog-nav-link{font-size:13px;font-weight:600;line-height:1.5;min-height:44px;padding:0;display:flex;align-items:center;background:none;border:0;border-radius:0;text-decoration:none;color:var(--muted);white-space:nowrap}
+.catalog.approved-catalog .catalog-nav-current{color:var(--text);box-shadow:inset 0 -2px var(--catalog-red)}
+.catalog.approved-catalog .catalog-header .icon-button{width:40px;height:40px;min-height:40px;background:none;border:0}
+.catalog.approved-catalog .catalog-hero{position:relative;isolation:isolate;overflow:hidden;min-height:240px;max-width:none;margin:0;padding:28px 48px;border:0;border-radius:0;display:flex;align-items:center;justify-content:space-between;gap:20px;background:#151517;color:#fff;box-shadow:none}
+.catalog.approved-catalog .catalog-hero::before{content:none!important}
+.catalog.approved-catalog .catalog-hero::after{content:""!important;position:absolute;z-index:-1;inset:auto;right:-78px;top:-100px;height:410px;width:350px;transform:rotate(-19deg);background:#ad1020;opacity:.5;border:0;border-radius:0;pointer-events:none}
+.catalog.approved-catalog .hero-copy{position:relative;z-index:1;flex:1;max-width:74%;min-width:0}
+.catalog.approved-catalog .eyebrow{font-size:11px;letter-spacing:.1em;font-weight:700;color:#c8c8d0;margin:0 0 12px}
+.catalog.approved-catalog .eyebrow>span{margin-left:14px;letter-spacing:0;font-weight:400}
+.catalog.approved-catalog .hero-copy h1{font-size:clamp(26px,3.5vw,36px);font-weight:700;line-height:1.15;letter-spacing:-.035em;margin:0;max-width:880px;color:#fff}
+.catalog.approved-catalog .hero-copy h1 em{font-style:normal;color:#ff4352}
+.catalog.approved-catalog .catalog-teacher{font-size:13px;line-height:1.65;color:#c8c8d0;margin:16px 0 0}
+.catalog.approved-catalog .catalog-mascot{position:relative;right:auto;bottom:auto;align-self:center;flex:0 0 220px;width:220px;height:220px;margin:-15px -14px -15px 12px;object-fit:contain;opacity:1;z-index:1}
+.catalog.approved-catalog .catalog-content{padding:28px 32px 16px;max-width:1500px;margin:0 auto}
+.catalog.approved-catalog .catalog-heading{margin:0 0 18px;font-size:24px;font-weight:700;line-height:1.25;letter-spacing:-.025em}
+.catalog.approved-catalog .catalog-tools{display:flex;align-items:center;gap:16px;padding:0;margin:0 0 24px;max-width:none}
+.catalog.approved-catalog .search-field{display:flex;flex:1;min-width:160px;align-items:center;gap:10px;height:46px;padding:0 14px;border:1px solid var(--border);border-radius:8px;background:var(--surface);color:var(--muted)}
+.catalog.approved-catalog .search-field input{font-size:16px;border:0;padding:0;min-height:0;height:100%;background:transparent}
+.catalog.approved-catalog .catalog-view{display:flex;gap:0;padding:2px;border:1px solid var(--border);border-radius:8px;background:var(--surface);flex-shrink:0;margin-left:-6px}
+.catalog.approved-catalog .catalog-view .icon-button{width:44px;height:44px;min-height:44px;border:0;border-radius:5px;background:transparent;color:var(--muted)}
+.catalog.approved-catalog .catalog-view .icon-button[aria-pressed=true]{background:var(--catalog-soft);color:var(--text)}
+.catalog.approved-catalog .semester-filter{display:flex;gap:4px;padding:3px;background:var(--catalog-soft);border-radius:9px;margin:0}
+.catalog.approved-catalog .semester-filter button{border:0;min-height:40px;white-space:nowrap;border-radius:6px;padding:0 13px;color:var(--muted);font-size:12px;font-weight:600;background:transparent}
+.catalog.approved-catalog .semester-filter button[aria-pressed=true]{background:var(--surface);color:var(--text);box-shadow:0 1px 4px #0001}
+.catalog.approved-catalog .topic-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;max-width:none;margin:0}
+.catalog.approved-catalog .topic-card{position:relative;display:flex;flex-direction:column;min-width:0;min-height:200px;padding:21px 22px 18px;border:1px solid var(--border);border-top:1px solid var(--border);border-radius:12px;background:var(--surface);box-shadow:none;overflow:visible}
+.catalog.approved-catalog .topic-card::before{content:"";position:absolute;top:-1px;left:-1px;right:-1px;width:auto;height:3px;border:0;border-radius:12px 12px 0 0;background:var(--catalog-red);pointer-events:none}
+.catalog.approved-catalog .topic-card::after{content:none}
+.catalog.approved-catalog .topic-card-top{display:flex;align-items:center;justify-content:space-between;gap:10px;font-size:11px;line-height:1.35;letter-spacing:.055em;font-weight:600;color:var(--muted);margin-bottom:12px}
+.catalog.approved-catalog .topic-index{font-size:11px;color:var(--catalog-red);font-weight:700}
+.catalog.approved-catalog .semester-tag{background:none;border-radius:0;padding:0;font-size:11px;font-weight:400;color:var(--muted)}
+.catalog.approved-catalog .topic-card h2{font-weight:700;font-size:18px;line-height:1.32;letter-spacing:-.015em;margin:0 0 18px;color:var(--text);max-width:none}
+.catalog.approved-catalog .topic-card-actions{margin-top:auto;display:flex;flex-direction:row;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px}
+.catalog.approved-catalog .topic-card-actions .primary{display:flex;align-items:center;justify-content:center;gap:9px;min-height:44px;border:0;border-radius:7px;padding:0 14px;background:var(--catalog-red);color:#fff;font-size:12px;font-weight:600}
+.catalog.approved-catalog .topic-card-actions .ghost{display:flex;align-items:center;gap:5px;min-height:44px;border:0;background:none;color:var(--muted);font-size:12px;font-weight:600;padding:0 3px;box-shadow:none}
+.catalog.approved-catalog .catalog-list{grid-template-columns:1fr;gap:0;border-top:1px solid var(--border)}
+.catalog.approved-catalog .catalog-list .topic-card{display:grid;grid-template-columns:105px minmax(0,1fr) 150px;align-items:center;column-gap:22px;min-height:114px;padding:20px 6px;border:0;border-bottom:1px solid var(--border);border-radius:0;background:transparent}
+.catalog.approved-catalog .catalog-list .topic-card::before{top:0;left:6px;right:auto;width:32px;height:2px;border-radius:0}
+.catalog.approved-catalog .catalog-list .topic-card-top{flex-direction:column;align-items:flex-start;justify-content:center;gap:6px;margin:0}
+.catalog.approved-catalog .catalog-list .topic-card h2{font-size:17px;margin:0}
+.catalog.approved-catalog .catalog-list .topic-card-actions{flex-direction:column;align-items:stretch;gap:0;margin:0}
+.catalog.approved-catalog .catalog-list .primary{font-size:11px;padding:0 9px}
+.catalog.approved-catalog .catalog-list .ghost{justify-content:center;min-height:32px;font-size:11px}
+.catalog.approved-catalog .search-field{order:0}.catalog.approved-catalog .catalog-view{order:1}.catalog.approved-catalog .semester-filter{order:2}
+.catalog.approved-catalog .topic-card-actions .button{width:auto;flex:0 0 auto}
+@media(max-width:800px){.catalog.approved-catalog .catalog-header{padding:12px 22px}.catalog.approved-catalog .catalog-header nav{gap:14px}.catalog.approved-catalog .catalog-hero{padding:28px 30px}.catalog.approved-catalog .catalog-mascot{flex-basis:185px;width:185px;height:185px;margin-right:-12px}.catalog.approved-catalog .catalog-content{padding:26px 24px 12px}.catalog.approved-catalog .catalog-tools{gap:10px;flex-wrap:wrap}.catalog.approved-catalog .topic-card{padding:18px;min-height:200px}.catalog.approved-catalog .catalog-list .topic-card{grid-template-columns:88px minmax(0,1fr) 138px;column-gap:14px}}
+@media(max-width:640px){.catalog.approved-catalog .catalog-header{padding:10px 16px;gap:10px;min-height:64px;flex-wrap:wrap}.catalog.approved-catalog .brand-lockup small{max-width:240px}.catalog.approved-catalog .catalog-header nav{margin-left:auto;gap:12px;max-width:100%;flex-wrap:wrap}.catalog.approved-catalog .catalog-nav-link{font-size:12px}.catalog.approved-catalog .catalog-hero{min-height:250px;padding:25px 20px;align-items:flex-start}.catalog.approved-catalog .hero-copy{max-width:100%}.catalog.approved-catalog .hero-copy h1{font-size:29px;max-width:340px;line-height:1.16;margin:0 0 98px}.catalog.approved-catalog .catalog-desktop-break{display:none}.catalog.approved-catalog .eyebrow{font-size:11px;letter-spacing:.07em;margin-bottom:12px}.catalog.approved-catalog .catalog-mascot{position:absolute;width:132px;height:132px;right:4px;bottom:3px;flex-basis:auto;margin:0;opacity:.95}.catalog.approved-catalog .catalog-hero::after{right:-135px;top:-75px;width:290px;height:400px;opacity:.4}.catalog.approved-catalog .catalog-content{padding:24px 16px 12px}.catalog.approved-catalog .catalog-heading{font-size:22px;margin-bottom:16px}.catalog.approved-catalog .catalog-tools{gap:10px;margin-bottom:18px}.catalog.approved-catalog .search-field{flex:1 1 calc(100% - 112px);min-width:0;height:46px}.catalog.approved-catalog .semester-filter{width:100%;justify-content:stretch}.catalog.approved-catalog .semester-filter button{flex:1;min-height:44px}.catalog.approved-catalog .topic-grid{grid-template-columns:1fr;gap:12px}.catalog.approved-catalog .topic-card{min-height:200px;padding:19px}.catalog.approved-catalog .topic-card h2{font-size:18px;line-height:1.35}.catalog.approved-catalog .catalog-list{gap:0}.catalog.approved-catalog .catalog-list .topic-card{grid-template-columns:minmax(0,1fr);gap:8px;padding:18px 2px;min-height:160px}.catalog.approved-catalog .catalog-list .topic-card-top{flex-direction:row;justify-content:space-between;gap:10px}.catalog.approved-catalog .catalog-list .topic-card h2{font-size:18px;margin-bottom:6px}.catalog.approved-catalog .catalog-list .topic-card-actions{flex-direction:row;align-items:center;justify-content:space-between;margin-top:4px}.catalog.approved-catalog .catalog-list .primary{font-size:12px;padding:0 12px}.catalog.approved-catalog .catalog-list .ghost{min-height:44px}}

@@ -36,6 +36,9 @@ try{
   await page.goto(base);
   const toggle=page.getByRole('button',{name:theme==='dark'?'Включить тёмную тему':'Включить светлую тему',exact:true});
   if(await toggle.count())await toggle.click();
+  const catalogStyle=await page.locator('.catalog-hero').evaluate(el=>({background:getComputedStyle(el).backgroundColor,decoration:getComputedStyle(el,'::after').content}));
+  assert.equal(catalogStyle.background,'rgb(21, 21, 23)');assert.notEqual(catalogStyle.decoration,'none');
+  assert.equal(await page.locator('.topic-grid').evaluate(el=>getComputedStyle(el).gridTemplateColumns.split(' ').length),2);
   await page.screenshot({path:output+`/catalog-${theme}.png`,fullPage:true});
   await page.getByRole('button',{name:'Открыть лекцию',exact:true}).first().click();
   await page.evaluate(()=>document.fonts.ready);

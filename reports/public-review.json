@@ -1,5 +1,5 @@
 {
-  "base": "http://127.0.0.1:4198/2026-PIRIP-lecture/",
+  "base": "https://olgakraven.github.io/2026-PIRIP-lecture/",
   "contentVersion": "pirip-2027-template-1",
   "totalSlides": 441,
   "results": [
@@ -137,7 +137,7 @@
         "d0",
         "d1",
         "d2",
-        "d2"
+        ""
       ],
       "keyboardMatches": true,
       "selectionMirrors": false,
@@ -362,10 +362,10 @@
         "d0",
         "d1",
         "d2",
-        "d3"
+        "d2"
       ],
       "keyboardMatches": true,
-      "selectionMirrors": true,
+      "selectionMirrors": false,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -443,10 +443,10 @@
         "d0",
         "d1",
         "d2",
-        "d3"
+        "d2"
       ],
       "keyboardMatches": true,
-      "selectionMirrors": true,
+      "selectionMirrors": false,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -593,10 +593,10 @@
         "d0",
         "d1",
         "d2",
-        "d2"
+        "d3"
       ],
       "keyboardMatches": true,
-      "selectionMirrors": false,
+      "selectionMirrors": true,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -824,10 +824,10 @@
         "d0",
         "d1",
         "d2",
-        "d3"
+        ""
       ],
       "keyboardMatches": true,
-      "selectionMirrors": true,
+      "selectionMirrors": false,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -974,10 +974,10 @@
         "d0",
         "d1",
         "d2",
-        ""
+        "d3"
       ],
       "keyboardMatches": true,
-      "selectionMirrors": false,
+      "selectionMirrors": true,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -1205,10 +1205,10 @@
         "d0",
         "d1",
         "d2",
-        "d3"
+        ""
       ],
       "keyboardMatches": true,
-      "selectionMirrors": true,
+      "selectionMirrors": false,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -1811,10 +1811,10 @@
         "d0",
         "d1",
         "d2",
-        "d2"
+        "d3"
       ],
       "keyboardMatches": true,
-      "selectionMirrors": false,
+      "selectionMirrors": true,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -1886,10 +1886,10 @@
         "d0",
         "d1",
         "d2",
-        ""
+        "d3"
       ],
       "keyboardMatches": true,
-      "selectionMirrors": false,
+      "selectionMirrors": true,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,

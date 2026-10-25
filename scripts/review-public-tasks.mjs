@@ -69,7 +69,7 @@ export default async function review(root,base) {
       out.push(row);
       root.__brainmProbeProgress.push(row);
     }
-    await audience.reload();await audience.locator('article').waitFor({timeout:15000});
+    await audience.reload({waitUntil:'domcontentloaded',timeout:45000});await audience.locator('article').waitFor({timeout:30000});
     out.push({lecture:lecture.id,type:'reload',audienceSlide:await audience.locator('article').getAttribute('data-slide-id'),notesVisible:await audience.getByRole('tablist',{name:'Разделы заметок'}).count()});
     await audience.close();
     await page.close();

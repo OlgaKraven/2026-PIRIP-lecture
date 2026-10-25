@@ -25,7 +25,7 @@
     "test:presentation": "node scripts/check-public-reviews.mjs"
   },
   "dependencies": {
-    "@olgakraven/lecture-engine": "file:vendor/olgakraven-lecture-engine-0.2.0-pirip.5.tgz",
+    "@olgakraven/lecture-engine": "file:vendor/olgakraven-lecture-engine-0.2.0-pirip.8.tgz",
     "lucide-react": "1.38.0",
     "motion": "13.1.1",
     "qrcode": "1.5.4",
