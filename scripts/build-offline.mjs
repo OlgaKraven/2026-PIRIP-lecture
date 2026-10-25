@@ -10,7 +10,7 @@ async function files(dir) {
     )
   ).flat()
 }
-const list = (await files('dist')).filter((p) => !p.endsWith('/sw.js')).sort()
+const list = (await files('dist')).filter((p) => !p.endsWith('/sw.js') && !p.endsWith('/.nojekyll')).sort()
 const hash = createHash('sha256')
 for (const p of list) hash.update(await readFile(p))
 const version = hash.digest('hex').slice(0, 16)

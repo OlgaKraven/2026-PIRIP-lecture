@@ -62,10 +62,10 @@
         "d0",
         "d1",
         "d2",
-        "d3"
+        ""
       ],
       "keyboardMatches": true,
-      "selectionMirrors": true,
+      "selectionMirrors": false,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -362,10 +362,10 @@
         "d0",
         "d1",
         "d2",
-        "d2"
+        "d3"
       ],
       "keyboardMatches": true,
-      "selectionMirrors": false,
+      "selectionMirrors": true,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -443,10 +443,10 @@
         "d0",
         "d1",
         "d2",
-        "d2"
+        "d3"
       ],
       "keyboardMatches": true,
-      "selectionMirrors": false,
+      "selectionMirrors": true,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -592,11 +592,11 @@
       "audienceValues": [
         "d0",
         "d1",
-        "d2",
-        "d3"
+        "",
+        ""
       ],
       "keyboardMatches": true,
-      "selectionMirrors": true,
+      "selectionMirrors": false,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -771,7 +771,7 @@
       "type": "single",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
-      "dialogText": "Разбор ответа\n\nPT Sans. Стиль портала задаёт приложение КИМ; стиль лекционного сайта задаёт шаблон. Токен хранит единое решение, а не случайное значение отдельного экрана.\n\nПравильный ответ\n\nPT Sans\n\nИерархия: Этот вариант не обозначает требуемое дей",
+      "dialogText": "Разбор ответа\n\nPT Sans. Руководство задаёт стиль приложения. Токен хранит общее значение, а компонент использует его через var(). Одинаковое действие оформляется согласованно на всех страницах.\n\nПравильный ответ\n\nPT Sans\n\nИерархия: Этот вариант не об",
       "sameExplanation": true,
       "audienceDialog": 1,
       "escapeCloses": true,
@@ -823,7 +823,7 @@
       "audienceValues": [
         "d0",
         "d1",
-        "d2",
+        "d0",
         ""
       ],
       "keyboardMatches": true,
@@ -1048,7 +1048,7 @@
       "audienceValues": [
         "d0",
         "d1",
-        "d2",
+        "d1",
         ""
       ],
       "keyboardMatches": true,
@@ -1205,10 +1205,10 @@
         "d0",
         "d1",
         "d2",
-        ""
+        "d3"
       ],
       "keyboardMatches": true,
-      "selectionMirrors": false,
+      "selectionMirrors": true,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -1279,11 +1279,11 @@
       "audienceValues": [
         "d0",
         "d1",
-        "d2",
-        "d3"
+        "",
+        ""
       ],
       "keyboardMatches": true,
-      "selectionMirrors": true,
+      "selectionMirrors": false,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -1430,10 +1430,10 @@
         "d0",
         "d1",
         "d2",
-        "d3"
+        "d2"
       ],
       "keyboardMatches": true,
-      "selectionMirrors": true,
+      "selectionMirrors": false,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,
@@ -1586,10 +1586,10 @@
         "d0",
         "d1",
         "d2",
-        "d3"
+        "d2"
       ],
       "keyboardMatches": true,
-      "selectionMirrors": true,
+      "selectionMirrors": false,
       "mousePopupMirror": "not-confirmed-native-select",
       "status": "Правильно · 1 / 1",
       "modalOpens": true,

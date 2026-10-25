@@ -34,7 +34,7 @@ try{
   await navigator.serviceWorker.ready;const worker=registration.active;
   return new Promise((resolve,reject)=>{const channel=new MessageChannel();const timer=setTimeout(()=>reject(Error('offline timeout')),45000);channel.port1.onmessage=e=>{clearTimeout(timer);resolve(e.data)};worker.postMessage({type:'PREPARE'},[channel.port2]);});
  });
- assert.equal(offline.ready,true);await context.setOffline(true);
+ assert.equal(offline.ready,true,JSON.stringify(offline));await context.setOffline(true);
  await page.goto(base+'project-brief.html#lecture-2');await page.getByRole('heading',{name:'«Конференции.РФ»: что нужно разработать',exact:true}).waitFor();
  await page.goto(base+'laboratories.html');await page.getByRole('heading',{name:'ПИРИП · Пять лабораторных работ',exact:true}).waitFor();
  await context.setOffline(false);assert.equal(errors.length,0);
