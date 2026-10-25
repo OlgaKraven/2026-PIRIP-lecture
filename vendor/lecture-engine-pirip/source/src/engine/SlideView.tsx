@@ -28,7 +28,6 @@ export function SlideView({
   const mode=new URLSearchParams(location.search).get('mode')
   const canControl=interactive&&mode!=='audience'&&mode!=='print'
   const hasDiagram=Boolean(slide.visual||slide.steps)
-  const source=(slide.source||'').split('Авторское объяснение')[0].trim()
   return (
     <article
       className={`slide-frame kind-${slide.kind} ${slide.visual || slide.image || slide.steps || slide.rows ? 'has-visual' : ''}`}
@@ -175,8 +174,6 @@ export function SlideView({
         )}
       </div>
       <footer className="slide-footer">
-        <span className="slide-source">{source}</span>
-        <span className="slide-discipline">{course.discipline}</span>
         <span className="slide-number">{String(number).padStart(2,'0')}</span>
       </footer>
     </article>

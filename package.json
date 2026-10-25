@@ -18,14 +18,14 @@
     "build:pages": "npm run build",
     "build:lecture-engine": "node scripts/build-lecture-engine.mjs",
     "test": "node scripts/check-course.mjs",
-    "lint": "oxlint src scripts authoring/blocks.mjs authoring/visual-design.mjs",
+    "lint": "oxlint src scripts authoring/blocks.mjs authoring/visual-design.mjs authoring/student-context.mjs authoring/project-brief.mjs",
     "export:pdf": "node scripts/export-pdf.mjs",
     "test:e2e": "node scripts/e2e.mjs",
     "test:design": "node scripts/review-design.mjs",
     "test:presentation": "node scripts/check-public-reviews.mjs"
   },
   "dependencies": {
-    "@olgakraven/lecture-engine": "file:vendor/olgakraven-lecture-engine-0.2.0-pirip.8.tgz",
+    "@olgakraven/lecture-engine": "file:vendor/olgakraven-lecture-engine-0.2.0-pirip.10.tgz",
     "lucide-react": "1.38.0",
     "motion": "13.1.1",
     "qrcode": "1.5.4",

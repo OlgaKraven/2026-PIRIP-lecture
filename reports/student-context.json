@@ -1,0 +1,42 @@
+{
+  "base": "http://127.0.0.1:4198/2026-PIRIP-lecture/",
+  "lectures": [
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "introduction": true,
+      "footer": "number only",
+      "briefAnchor": true
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "introduction": true,
+      "footer": "number only",
+      "briefAnchor": true
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "introduction": true,
+      "footer": "number only",
+      "briefAnchor": true
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "introduction": true,
+      "footer": "number only",
+      "briefAnchor": true
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "introduction": true,
+      "footer": "number only",
+      "briefAnchor": true
+    }
+  ],
+  "briefViewportWidths": [
+    1366,
+    390
+  ],
+  "offlineBrief": true,
+  "offlineLabs": true,
+  "errors": []
+}

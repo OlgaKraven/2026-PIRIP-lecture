@@ -20,7 +20,7 @@ for(const viewport of (process.env.ONLY_FUNCTIONAL?[]:[{width:1920,height:1080},
  for(const l of course.lectures){for(const s of l.slides){
   await go(l,s);await page.evaluate(()=>document.fonts.ready);
   const bad=await page.locator(`[data-slide-id="${s.id}"]`).evaluate((el)=>{
-   const frame=el.getBoundingClientRect();const nodes=[...el.querySelectorAll('.slide-copy h2,.slide-body-copy,.slide-copy li,.reading-entry,.task-prompt,.choice-grid label,.matching-fields label,.write-note,.slide-image,.infographic,.rd-flow p,.rd-code,.rd-table,.rd-controls')];
+   const frame=el.getBoundingClientRect();const nodes=[...el.querySelectorAll('.slide-copy h2,.slide-body-copy,.slide-copy li,.reading-entry,.task-prompt,.task-actions,.choice-grid label,.matching-fields label,.write-note,.slide-image,.infographic,.rd-flow p,.rd-code,.rd-table,.rd-controls')];
    const overflow=nodes.filter(n=>{const r=n.getBoundingClientRect();return r.width>0&&(r.left<frame.left-2||r.right>frame.right+2||r.bottom>frame.bottom-8);}).map(n=>({tag:n.className||n.tagName,text:n.textContent?.slice(0,90),bottom:Math.round(n.getBoundingClientRect().bottom-frame.bottom)}));
    return {pageOverflow:document.documentElement.scrollWidth>innerWidth+2,overflow};
   });

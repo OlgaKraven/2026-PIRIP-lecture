@@ -1,0 +1,28 @@
+{
+  "slideOrderPreserved": 441,
+  "gradingKeysPreserved": 100,
+  "questionContexts": 25,
+  "workedExamples": 25,
+  "changes": [
+    {
+      "lecture": "lecture-01-kim-and-mvp",
+      "changedSlides": 34
+    },
+    {
+      "lecture": "lecture-02-database-backend-security",
+      "changedSlides": 33
+    },
+    {
+      "lecture": "lecture-03-design-and-responsive",
+      "changedSlides": 36
+    },
+    {
+      "lecture": "lecture-04-performance-and-interactivity",
+      "changedSlides": 33
+    },
+    {
+      "lecture": "lecture-05-demo-and-qa",
+      "changedSlides": 33
+    }
+  ]
+}
